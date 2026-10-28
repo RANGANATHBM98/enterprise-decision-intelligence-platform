@@ -1,0 +1,1001 @@
+customer_key,customer_id,customer_segment,recency_days,frequency_orders,monetary_margin,churn_probability,recommended_action
+1,CUST_0001,Tier 3: At-Risk Frequenters,209,16,2705.0,0.93,Executive Intervention: Dedicated Account Manager Call
+2,CUST_0002,Tier 3: At-Risk Frequenters,153,11,1842.5,0.0,Standard Engagement: Bi-weekly Newsletter
+3,CUST_0003,Tier 4: Low-Engagement,21,15,2625.0,0.0,Standard Engagement: Bi-weekly Newsletter
+4,CUST_0004,Tier 3: At-Risk Frequenters,296,12,2265.0,0.972,Executive Intervention: Dedicated Account Manager Call
+5,CUST_0005,Tier 3: At-Risk Frequenters,104,9,2580.0,0.001,Standard Engagement: Bi-weekly Newsletter
+6,CUST_0006,Tier 3: At-Risk Frequenters,190,14,2845.0,0.911,Executive Intervention: Dedicated Account Manager Call
+7,CUST_0007,Tier 4: Low-Engagement,12,15,2052.5,0.0,Standard Engagement: Bi-weekly Newsletter
+8,CUST_0008,Tier 2: High Potential,96,19,3727.5,0.0,Nurture Campaign: Feature Adoption Webinar
+9,CUST_0009,Tier 4: Low-Engagement,88,13,2217.5,0.0,Standard Engagement: Bi-weekly Newsletter
+10,CUST_0010,Tier 3: At-Risk Frequenters,107,15,3237.5,0.0,Standard Engagement: Bi-weekly Newsletter
+11,CUST_0011,Tier 4: Low-Engagement,5,11,2212.5,0.002,Standard Engagement: Bi-weekly Newsletter
+12,CUST_0012,Tier 1: Champions,35,20,4682.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+13,CUST_0013,Tier 1: Champions,21,22,4530.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+14,CUST_0014,Tier 2: High Potential,9,18,3197.5,0.0,Nurture Campaign: Feature Adoption Webinar
+15,CUST_0015,Tier 3: At-Risk Frequenters,133,13,3690.0,0.001,Standard Engagement: Bi-weekly Newsletter
+16,CUST_0016,Tier 2: High Potential,14,19,3045.0,0.0,Nurture Campaign: Feature Adoption Webinar
+17,CUST_0017,Tier 1: Champions,0,16,6295.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+18,CUST_0018,Tier 4: Low-Engagement,90,11,1695.0,0.0,Standard Engagement: Bi-weekly Newsletter
+19,CUST_0019,Tier 2: High Potential,13,19,4130.0,0.0,Nurture Campaign: Feature Adoption Webinar
+20,CUST_0020,Tier 1: Champions,102,15,5397.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+21,CUST_0021,Tier 2: High Potential,28,16,3142.5,0.0,Nurture Campaign: Feature Adoption Webinar
+22,CUST_0022,Tier 4: Low-Engagement,51,15,2617.5,0.0,Standard Engagement: Bi-weekly Newsletter
+23,CUST_0023,Tier 4: Low-Engagement,14,12,2570.0,0.0,Standard Engagement: Bi-weekly Newsletter
+24,CUST_0024,Tier 4: Low-Engagement,32,11,2292.5,0.0,Standard Engagement: Bi-weekly Newsletter
+25,CUST_0025,Tier 2: High Potential,95,21,4080.0,0.0,Nurture Campaign: Feature Adoption Webinar
+26,CUST_0026,Tier 1: Champions,72,19,4895.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+27,CUST_0027,Tier 2: High Potential,17,16,2785.0,0.0,Nurture Campaign: Feature Adoption Webinar
+28,CUST_0028,Tier 4: Low-Engagement,36,13,2287.5,0.001,Standard Engagement: Bi-weekly Newsletter
+29,CUST_0029,Tier 2: High Potential,30,18,4142.5,0.0,Nurture Campaign: Feature Adoption Webinar
+30,CUST_0030,Tier 4: Low-Engagement,54,9,1792.5,0.0,Standard Engagement: Bi-weekly Newsletter
+31,CUST_0031,Tier 3: At-Risk Frequenters,101,14,3230.0,0.0,Standard Engagement: Bi-weekly Newsletter
+32,CUST_0032,Tier 4: Low-Engagement,21,12,2415.0,0.002,Standard Engagement: Bi-weekly Newsletter
+33,CUST_0033,Tier 3: At-Risk Frequenters,234,8,1997.5,0.973,Executive Intervention: Dedicated Account Manager Call
+34,CUST_0034,Tier 4: Low-Engagement,36,10,1985.0,0.001,Standard Engagement: Bi-weekly Newsletter
+35,CUST_0035,Tier 4: Low-Engagement,46,11,3465.0,0.001,Standard Engagement: Bi-weekly Newsletter
+36,CUST_0036,Tier 4: Low-Engagement,79,8,907.5,0.001,Standard Engagement: Bi-weekly Newsletter
+37,CUST_0037,Tier 4: Low-Engagement,36,9,1227.5,0.001,Standard Engagement: Bi-weekly Newsletter
+38,CUST_0038,Tier 4: Low-Engagement,73,10,1062.5,0.002,Standard Engagement: Bi-weekly Newsletter
+39,CUST_0039,Tier 1: Champions,31,21,5015.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+40,CUST_0040,Tier 4: Low-Engagement,53,11,3530.0,0.001,Standard Engagement: Bi-weekly Newsletter
+41,CUST_0041,Tier 4: Low-Engagement,68,9,3905.0,0.001,Standard Engagement: Bi-weekly Newsletter
+42,CUST_0042,Tier 2: High Potential,73,18,4497.5,0.0,Nurture Campaign: Feature Adoption Webinar
+43,CUST_0043,Tier 4: Low-Engagement,5,13,3275.0,0.001,Standard Engagement: Bi-weekly Newsletter
+44,CUST_0044,Tier 2: High Potential,55,17,4255.0,0.0,Nurture Campaign: Feature Adoption Webinar
+45,CUST_0045,Tier 4: Low-Engagement,14,14,2940.0,0.001,Standard Engagement: Bi-weekly Newsletter
+46,CUST_0046,Tier 2: High Potential,63,16,2712.5,0.0,Nurture Campaign: Feature Adoption Webinar
+47,CUST_0047,Tier 2: High Potential,10,20,3902.5,0.0,Nurture Campaign: Feature Adoption Webinar
+48,CUST_0048,Tier 4: Low-Engagement,39,10,1950.0,0.001,Standard Engagement: Bi-weekly Newsletter
+49,CUST_0049,Tier 3: At-Risk Frequenters,143,14,2377.5,0.0,Standard Engagement: Bi-weekly Newsletter
+50,CUST_0050,Tier 4: Low-Engagement,11,12,1932.5,0.002,Standard Engagement: Bi-weekly Newsletter
+51,CUST_0051,Tier 2: High Potential,52,14,4290.0,0.0,Nurture Campaign: Feature Adoption Webinar
+52,CUST_0052,Tier 1: Champions,30,19,6887.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+53,CUST_0053,Tier 4: Low-Engagement,29,14,2160.0,0.0,Standard Engagement: Bi-weekly Newsletter
+54,CUST_0054,Tier 4: Low-Engagement,72,12,2127.5,0.0,Standard Engagement: Bi-weekly Newsletter
+55,CUST_0055,Tier 3: At-Risk Frequenters,135,9,3115.0,0.001,Standard Engagement: Bi-weekly Newsletter
+56,CUST_0056,Tier 1: Champions,38,20,4470.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+57,CUST_0057,Tier 2: High Potential,24,19,4257.5,0.0,Nurture Campaign: Feature Adoption Webinar
+58,CUST_0058,Tier 2: High Potential,25,16,2605.0,0.0,Nurture Campaign: Feature Adoption Webinar
+59,CUST_0059,Tier 2: High Potential,6,21,3027.5,0.0,Nurture Campaign: Feature Adoption Webinar
+60,CUST_0060,Tier 4: Low-Engagement,25,14,3005.0,0.0,Standard Engagement: Bi-weekly Newsletter
+61,CUST_0061,Tier 4: Low-Engagement,44,13,1675.0,0.001,Standard Engagement: Bi-weekly Newsletter
+62,CUST_0062,Tier 2: High Potential,26,15,3057.5,0.0,Nurture Campaign: Feature Adoption Webinar
+63,CUST_0063,Tier 4: Low-Engagement,22,10,2530.0,0.001,Standard Engagement: Bi-weekly Newsletter
+64,CUST_0064,Tier 4: Low-Engagement,48,10,1667.5,0.003,Standard Engagement: Bi-weekly Newsletter
+65,CUST_0065,Tier 1: Champions,24,20,8060.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+66,CUST_0066,Tier 4: Low-Engagement,38,14,2965.0,0.0,Standard Engagement: Bi-weekly Newsletter
+67,CUST_0067,Tier 3: At-Risk Frequenters,158,12,2715.0,0.0,Standard Engagement: Bi-weekly Newsletter
+68,CUST_0068,Tier 2: High Potential,20,18,3582.5,0.0,Nurture Campaign: Feature Adoption Webinar
+69,CUST_0069,Tier 1: Champions,13,23,5020.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+70,CUST_0070,Tier 4: Low-Engagement,3,14,2235.0,0.0,Standard Engagement: Bi-weekly Newsletter
+71,CUST_0071,Tier 2: High Potential,40,19,3510.0,0.0,Nurture Campaign: Feature Adoption Webinar
+72,CUST_0072,Tier 2: High Potential,17,17,3180.0,0.0,Nurture Campaign: Feature Adoption Webinar
+73,CUST_0073,Tier 1: Champions,3,21,6157.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+74,CUST_0074,Tier 2: High Potential,25,17,3202.5,0.0,Nurture Campaign: Feature Adoption Webinar
+75,CUST_0075,Tier 2: High Potential,48,14,3222.5,0.001,Nurture Campaign: Feature Adoption Webinar
+76,CUST_0076,Tier 2: High Potential,16,18,2922.5,0.0,Nurture Campaign: Feature Adoption Webinar
+77,CUST_0077,Tier 2: High Potential,5,20,3740.0,0.0,Nurture Campaign: Feature Adoption Webinar
+78,CUST_0078,Tier 4: Low-Engagement,75,13,2827.5,0.0,Standard Engagement: Bi-weekly Newsletter
+79,CUST_0079,Tier 3: At-Risk Frequenters,145,19,2967.5,0.0,Standard Engagement: Bi-weekly Newsletter
+80,CUST_0080,Tier 4: Low-Engagement,77,12,2845.0,0.002,Standard Engagement: Bi-weekly Newsletter
+81,CUST_0081,Tier 2: High Potential,23,14,3295.0,0.001,Nurture Campaign: Feature Adoption Webinar
+82,CUST_0082,Tier 2: High Potential,4,18,3347.5,0.0,Nurture Campaign: Feature Adoption Webinar
+83,CUST_0083,Tier 4: Low-Engagement,13,13,3305.0,0.001,Standard Engagement: Bi-weekly Newsletter
+84,CUST_0084,Tier 2: High Potential,24,15,2927.5,0.0,Nurture Campaign: Feature Adoption Webinar
+85,CUST_0085,Tier 3: At-Risk Frequenters,92,12,3925.0,0.001,Standard Engagement: Bi-weekly Newsletter
+86,CUST_0086,Tier 2: High Potential,33,19,4175.0,0.0,Nurture Campaign: Feature Adoption Webinar
+87,CUST_0087,Tier 2: High Potential,1,15,4552.5,0.0,Nurture Campaign: Feature Adoption Webinar
+88,CUST_0088,Tier 2: High Potential,9,19,2657.5,0.0,Nurture Campaign: Feature Adoption Webinar
+89,CUST_0089,Tier 4: Low-Engagement,38,10,1585.0,0.002,Standard Engagement: Bi-weekly Newsletter
+90,CUST_0090,Tier 2: High Potential,7,20,4275.0,0.0,Nurture Campaign: Feature Adoption Webinar
+91,CUST_0091,Tier 3: At-Risk Frequenters,104,13,4530.0,0.001,Standard Engagement: Bi-weekly Newsletter
+92,CUST_0092,Tier 4: Low-Engagement,13,13,1800.0,0.0,Standard Engagement: Bi-weekly Newsletter
+93,CUST_0093,Tier 1: Champions,1,24,6772.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+94,CUST_0094,Tier 4: Low-Engagement,30,10,3860.0,0.002,Standard Engagement: Bi-weekly Newsletter
+95,CUST_0095,Tier 1: Champions,6,17,5772.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+96,CUST_0096,Tier 2: High Potential,34,14,3680.0,0.0,Nurture Campaign: Feature Adoption Webinar
+97,CUST_0097,Tier 3: At-Risk Frequenters,94,13,2482.5,0.002,Standard Engagement: Bi-weekly Newsletter
+98,CUST_0098,Tier 4: Low-Engagement,10,8,2567.5,0.003,Standard Engagement: Bi-weekly Newsletter
+99,CUST_0099,Tier 2: High Potential,4,15,3460.0,0.0,Nurture Campaign: Feature Adoption Webinar
+100,CUST_0100,Tier 4: Low-Engagement,2,7,1440.0,0.001,Standard Engagement: Bi-weekly Newsletter
+101,CUST_0101,Tier 2: High Potential,26,19,3740.0,0.0,Nurture Campaign: Feature Adoption Webinar
+102,CUST_0102,Tier 4: Low-Engagement,27,10,1610.0,0.002,Standard Engagement: Bi-weekly Newsletter
+103,CUST_0103,Tier 2: High Potential,15,17,3585.0,0.0,Nurture Campaign: Feature Adoption Webinar
+104,CUST_0104,Tier 2: High Potential,6,20,3727.5,0.0,Nurture Campaign: Feature Adoption Webinar
+105,CUST_0105,Tier 1: Champions,11,20,4995.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+106,CUST_0106,Tier 1: Champions,17,20,5930.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+107,CUST_0107,Tier 4: Low-Engagement,58,14,2770.0,0.0,Standard Engagement: Bi-weekly Newsletter
+108,CUST_0108,Tier 2: High Potential,9,14,3235.0,0.0,Nurture Campaign: Feature Adoption Webinar
+109,CUST_0109,Tier 2: High Potential,3,17,2867.5,0.0,Nurture Campaign: Feature Adoption Webinar
+110,CUST_0110,Tier 3: At-Risk Frequenters,122,13,4690.0,0.001,Standard Engagement: Bi-weekly Newsletter
+111,CUST_0111,Tier 2: High Potential,90,18,3412.5,0.0,Nurture Campaign: Feature Adoption Webinar
+112,CUST_0112,Tier 1: Champions,27,24,4177.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+113,CUST_0113,Tier 4: Low-Engagement,41,15,2307.5,0.0,Standard Engagement: Bi-weekly Newsletter
+114,CUST_0114,Tier 2: High Potential,60,17,3050.0,0.0,Nurture Campaign: Feature Adoption Webinar
+115,CUST_0115,Tier 2: High Potential,5,19,3842.5,0.0,Nurture Campaign: Feature Adoption Webinar
+116,CUST_0116,Tier 4: Low-Engagement,0,14,2417.5,0.001,Standard Engagement: Bi-weekly Newsletter
+117,CUST_0117,Tier 3: At-Risk Frequenters,91,12,2810.0,0.0,Standard Engagement: Bi-weekly Newsletter
+118,CUST_0118,Tier 2: High Potential,34,17,3710.0,0.0,Nurture Campaign: Feature Adoption Webinar
+119,CUST_0119,Tier 4: Low-Engagement,42,9,1880.0,0.0,Standard Engagement: Bi-weekly Newsletter
+120,CUST_0120,Tier 4: Low-Engagement,36,14,2215.0,0.0,Standard Engagement: Bi-weekly Newsletter
+121,CUST_0121,Tier 2: High Potential,1,15,4712.5,0.0,Nurture Campaign: Feature Adoption Webinar
+122,CUST_0122,Tier 2: High Potential,2,15,3645.0,0.0,Nurture Campaign: Feature Adoption Webinar
+123,CUST_0123,Tier 4: Low-Engagement,15,15,1535.0,0.0,Standard Engagement: Bi-weekly Newsletter
+124,CUST_0124,Tier 4: Low-Engagement,58,9,1170.0,0.002,Standard Engagement: Bi-weekly Newsletter
+125,CUST_0125,Tier 2: High Potential,6,17,3470.0,0.0,Nurture Campaign: Feature Adoption Webinar
+126,CUST_0126,Tier 4: Low-Engagement,70,12,1980.0,0.0,Standard Engagement: Bi-weekly Newsletter
+127,CUST_0127,Tier 4: Low-Engagement,77,10,2072.5,0.003,Standard Engagement: Bi-weekly Newsletter
+128,CUST_0128,Tier 2: High Potential,3,21,3745.0,0.0,Nurture Campaign: Feature Adoption Webinar
+129,CUST_0129,Tier 3: At-Risk Frequenters,129,15,2522.5,0.0,Standard Engagement: Bi-weekly Newsletter
+130,CUST_0130,Tier 1: Champions,0,20,5430.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+131,CUST_0131,Tier 3: At-Risk Frequenters,140,10,2035.0,0.001,Standard Engagement: Bi-weekly Newsletter
+132,CUST_0132,Tier 1: Champions,6,20,4470.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+133,CUST_0133,Tier 2: High Potential,83,17,4057.5,0.0,Nurture Campaign: Feature Adoption Webinar
+134,CUST_0134,Tier 2: High Potential,68,18,2462.5,0.0,Nurture Campaign: Feature Adoption Webinar
+135,CUST_0135,Tier 4: Low-Engagement,1,12,2217.5,0.0,Standard Engagement: Bi-weekly Newsletter
+136,CUST_0136,Tier 3: At-Risk Frequenters,235,10,1230.0,0.969,Automated Retention: 15% Re-engagement Discount
+137,CUST_0137,Tier 4: Low-Engagement,41,14,1977.5,0.0,Standard Engagement: Bi-weekly Newsletter
+138,CUST_0138,Tier 2: High Potential,43,16,3507.5,0.0,Nurture Campaign: Feature Adoption Webinar
+139,CUST_0139,Tier 2: High Potential,52,16,3310.0,0.0,Nurture Campaign: Feature Adoption Webinar
+140,CUST_0140,Tier 4: Low-Engagement,68,11,1657.5,0.05,Standard Engagement: Bi-weekly Newsletter
+141,CUST_0141,Tier 1: Champions,20,20,5615.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+142,CUST_0142,Tier 3: At-Risk Frequenters,103,8,2000.0,0.002,Standard Engagement: Bi-weekly Newsletter
+143,CUST_0143,Tier 3: At-Risk Frequenters,128,11,1732.5,0.0,Standard Engagement: Bi-weekly Newsletter
+144,CUST_0144,Tier 2: High Potential,62,19,3285.0,0.0,Nurture Campaign: Feature Adoption Webinar
+145,CUST_0145,Tier 4: Low-Engagement,20,9,2160.0,0.002,Standard Engagement: Bi-weekly Newsletter
+146,CUST_0146,Tier 1: Champions,64,19,5810.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+147,CUST_0147,Tier 1: Champions,12,20,5525.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+148,CUST_0148,Tier 3: At-Risk Frequenters,108,11,2487.5,0.0,Standard Engagement: Bi-weekly Newsletter
+149,CUST_0149,Tier 2: High Potential,65,16,3837.5,0.0,Nurture Campaign: Feature Adoption Webinar
+150,CUST_0150,Tier 4: Low-Engagement,80,11,2372.5,0.0,Standard Engagement: Bi-weekly Newsletter
+151,CUST_0151,Tier 4: Low-Engagement,76,9,3102.5,0.001,Standard Engagement: Bi-weekly Newsletter
+152,CUST_0152,Tier 4: Low-Engagement,83,12,1627.5,0.008,Standard Engagement: Bi-weekly Newsletter
+153,CUST_0153,Tier 4: Low-Engagement,39,8,3365.0,0.001,Standard Engagement: Bi-weekly Newsletter
+154,CUST_0154,Tier 3: At-Risk Frequenters,149,18,5095.0,0.0,Standard Engagement: Bi-weekly Newsletter
+155,CUST_0155,Tier 1: Champions,120,18,5082.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+156,CUST_0156,Tier 2: High Potential,14,17,3032.5,0.0,Nurture Campaign: Feature Adoption Webinar
+157,CUST_0157,Tier 4: Low-Engagement,6,11,2135.0,0.0,Standard Engagement: Bi-weekly Newsletter
+158,CUST_0158,Tier 4: Low-Engagement,76,15,2170.0,0.0,Standard Engagement: Bi-weekly Newsletter
+159,CUST_0159,Tier 3: At-Risk Frequenters,190,13,4050.0,0.931,Executive Intervention: Dedicated Account Manager Call
+160,CUST_0160,Tier 4: Low-Engagement,18,10,2282.5,0.001,Standard Engagement: Bi-weekly Newsletter
+161,CUST_0161,Tier 2: High Potential,8,17,2955.0,0.0,Nurture Campaign: Feature Adoption Webinar
+162,CUST_0162,Tier 4: Low-Engagement,9,15,2537.5,0.0,Standard Engagement: Bi-weekly Newsletter
+163,CUST_0163,Tier 4: Low-Engagement,19,12,2657.5,0.0,Standard Engagement: Bi-weekly Newsletter
+164,CUST_0164,Tier 2: High Potential,61,19,2797.5,0.0,Nurture Campaign: Feature Adoption Webinar
+165,CUST_0165,Tier 2: High Potential,51,17,2477.5,0.0,Nurture Campaign: Feature Adoption Webinar
+166,CUST_0166,Tier 1: Champions,62,24,4212.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+167,CUST_0167,Tier 4: Low-Engagement,23,11,2000.0,0.0,Standard Engagement: Bi-weekly Newsletter
+168,CUST_0168,Tier 4: Low-Engagement,29,14,2925.0,0.001,Standard Engagement: Bi-weekly Newsletter
+169,CUST_0169,Tier 4: Low-Engagement,37,13,1650.0,0.001,Standard Engagement: Bi-weekly Newsletter
+170,CUST_0170,Tier 4: Low-Engagement,33,12,2345.0,0.0,Standard Engagement: Bi-weekly Newsletter
+171,CUST_0171,Tier 2: High Potential,15,21,3135.0,0.0,Nurture Campaign: Feature Adoption Webinar
+172,CUST_0172,Tier 4: Low-Engagement,7,16,2072.5,0.0,Standard Engagement: Bi-weekly Newsletter
+173,CUST_0173,Tier 4: Low-Engagement,0,14,2700.0,0.0,Standard Engagement: Bi-weekly Newsletter
+174,CUST_0174,Tier 4: Low-Engagement,16,7,1302.5,0.0,Standard Engagement: Bi-weekly Newsletter
+175,CUST_0175,Tier 1: Champions,21,20,4950.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+176,CUST_0176,Tier 4: Low-Engagement,0,13,2532.5,0.003,Standard Engagement: Bi-weekly Newsletter
+177,CUST_0177,Tier 4: Low-Engagement,32,13,3337.5,0.001,Standard Engagement: Bi-weekly Newsletter
+178,CUST_0178,Tier 4: Low-Engagement,73,14,2672.5,0.0,Standard Engagement: Bi-weekly Newsletter
+179,CUST_0179,Tier 2: High Potential,1,17,3317.5,0.0,Nurture Campaign: Feature Adoption Webinar
+180,CUST_0180,Tier 2: High Potential,0,21,3007.5,0.0,Nurture Campaign: Feature Adoption Webinar
+181,CUST_0181,Tier 1: Champions,106,21,4767.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+182,CUST_0182,Tier 3: At-Risk Frequenters,94,14,3095.0,0.0,Standard Engagement: Bi-weekly Newsletter
+183,CUST_0183,Tier 2: High Potential,75,13,4717.5,0.001,Nurture Campaign: Feature Adoption Webinar
+184,CUST_0184,Tier 4: Low-Engagement,60,14,3185.0,0.0,Standard Engagement: Bi-weekly Newsletter
+185,CUST_0185,Tier 4: Low-Engagement,22,10,1785.0,0.001,Standard Engagement: Bi-weekly Newsletter
+186,CUST_0186,Tier 4: Low-Engagement,28,14,2630.0,0.0,Standard Engagement: Bi-weekly Newsletter
+187,CUST_0187,Tier 2: High Potential,5,19,3915.0,0.0,Nurture Campaign: Feature Adoption Webinar
+188,CUST_0188,Tier 4: Low-Engagement,12,16,2110.0,0.0,Standard Engagement: Bi-weekly Newsletter
+189,CUST_0189,Tier 2: High Potential,20,17,3810.0,0.0,Nurture Campaign: Feature Adoption Webinar
+190,CUST_0190,Tier 4: Low-Engagement,91,8,1780.0,0.0,Standard Engagement: Bi-weekly Newsletter
+191,CUST_0191,Tier 2: High Potential,48,16,3832.5,0.0,Nurture Campaign: Feature Adoption Webinar
+192,CUST_0192,Tier 2: High Potential,12,18,3597.5,0.0,Nurture Campaign: Feature Adoption Webinar
+193,CUST_0193,Tier 2: High Potential,32,16,3055.0,0.0,Nurture Campaign: Feature Adoption Webinar
+194,CUST_0194,Tier 4: Low-Engagement,5,12,1680.0,0.0,Standard Engagement: Bi-weekly Newsletter
+195,CUST_0195,Tier 2: High Potential,4,15,3230.0,0.0,Nurture Campaign: Feature Adoption Webinar
+196,CUST_0196,Tier 3: At-Risk Frequenters,92,16,2467.5,0.0,Standard Engagement: Bi-weekly Newsletter
+197,CUST_0197,Tier 4: Low-Engagement,69,13,2342.5,0.0,Standard Engagement: Bi-weekly Newsletter
+198,CUST_0198,Tier 4: Low-Engagement,57,11,1375.0,0.003,Standard Engagement: Bi-weekly Newsletter
+199,CUST_0199,Tier 2: High Potential,68,15,3492.5,0.0,Nurture Campaign: Feature Adoption Webinar
+200,CUST_0200,Tier 4: Low-Engagement,28,14,2940.0,0.0,Standard Engagement: Bi-weekly Newsletter
+201,CUST_0201,Tier 1: Champions,46,16,5290.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+202,CUST_0202,Tier 4: Low-Engagement,68,14,2392.5,0.0,Standard Engagement: Bi-weekly Newsletter
+203,CUST_0203,Tier 3: At-Risk Frequenters,95,10,4342.5,0.002,Standard Engagement: Bi-weekly Newsletter
+204,CUST_0204,Tier 2: High Potential,35,19,3462.5,0.0,Nurture Campaign: Feature Adoption Webinar
+205,CUST_0205,Tier 3: At-Risk Frequenters,140,15,4647.5,0.0,Standard Engagement: Bi-weekly Newsletter
+206,CUST_0206,Tier 4: Low-Engagement,23,13,2377.5,0.002,Standard Engagement: Bi-weekly Newsletter
+207,CUST_0207,Tier 1: Champions,101,18,5517.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+208,CUST_0208,Tier 1: Champions,63,19,5125.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+209,CUST_0209,Tier 2: High Potential,29,17,3662.5,0.0,Nurture Campaign: Feature Adoption Webinar
+210,CUST_0210,Tier 2: High Potential,41,18,4280.0,0.0,Nurture Campaign: Feature Adoption Webinar
+211,CUST_0211,Tier 2: High Potential,23,18,3237.5,0.0,Nurture Campaign: Feature Adoption Webinar
+212,CUST_0212,Tier 4: Low-Engagement,53,14,2752.5,0.0,Standard Engagement: Bi-weekly Newsletter
+213,CUST_0213,Tier 4: Low-Engagement,16,13,2702.5,0.0,Standard Engagement: Bi-weekly Newsletter
+214,CUST_0214,Tier 2: High Potential,23,20,4225.0,0.0,Nurture Campaign: Feature Adoption Webinar
+215,CUST_0215,Tier 2: High Potential,22,20,2992.5,0.0,Nurture Campaign: Feature Adoption Webinar
+216,CUST_0216,Tier 4: Low-Engagement,40,13,2235.0,0.0,Standard Engagement: Bi-weekly Newsletter
+217,CUST_0217,Tier 2: High Potential,7,18,2767.5,0.0,Nurture Campaign: Feature Adoption Webinar
+218,CUST_0218,Tier 2: High Potential,3,15,3290.0,0.0,Nurture Campaign: Feature Adoption Webinar
+219,CUST_0219,Tier 4: Low-Engagement,44,11,2685.0,0.001,Standard Engagement: Bi-weekly Newsletter
+220,CUST_0220,Tier 4: Low-Engagement,45,13,3197.5,0.002,Standard Engagement: Bi-weekly Newsletter
+221,CUST_0221,Tier 1: Champions,23,24,5022.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+222,CUST_0222,Tier 4: Low-Engagement,40,15,2290.0,0.0,Standard Engagement: Bi-weekly Newsletter
+223,CUST_0223,Tier 4: Low-Engagement,65,7,885.0,0.001,Standard Engagement: Bi-weekly Newsletter
+224,CUST_0224,Tier 4: Low-Engagement,0,10,1477.5,0.003,Standard Engagement: Bi-weekly Newsletter
+225,CUST_0225,Tier 3: At-Risk Frequenters,153,13,2740.0,0.002,Standard Engagement: Bi-weekly Newsletter
+226,CUST_0226,Tier 2: High Potential,48,18,3510.0,0.0,Nurture Campaign: Feature Adoption Webinar
+227,CUST_0227,Tier 4: Low-Engagement,29,13,2450.0,0.002,Standard Engagement: Bi-weekly Newsletter
+228,CUST_0228,Tier 4: Low-Engagement,27,15,2347.5,0.0,Standard Engagement: Bi-weekly Newsletter
+229,CUST_0229,Tier 1: Champions,87,19,6107.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+230,CUST_0230,Tier 2: High Potential,3,15,3835.0,0.0,Nurture Campaign: Feature Adoption Webinar
+231,CUST_0231,Tier 4: Low-Engagement,32,11,2687.5,0.0,Standard Engagement: Bi-weekly Newsletter
+232,CUST_0232,Tier 2: High Potential,105,18,3215.0,0.0,Nurture Campaign: Feature Adoption Webinar
+233,CUST_0233,Tier 1: Champions,0,15,6860.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+234,CUST_0234,Tier 2: High Potential,25,16,3257.5,0.0,Nurture Campaign: Feature Adoption Webinar
+235,CUST_0235,Tier 2: High Potential,76,18,3997.5,0.0,Nurture Campaign: Feature Adoption Webinar
+236,CUST_0236,Tier 2: High Potential,4,17,2907.5,0.0,Nurture Campaign: Feature Adoption Webinar
+237,CUST_0237,Tier 1: Champions,93,23,9145.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+238,CUST_0238,Tier 3: At-Risk Frequenters,121,10,1095.0,0.001,Standard Engagement: Bi-weekly Newsletter
+239,CUST_0239,Tier 2: High Potential,43,17,4802.5,0.0,Nurture Campaign: Feature Adoption Webinar
+240,CUST_0240,Tier 3: At-Risk Frequenters,174,11,1790.0,0.0,Standard Engagement: Bi-weekly Newsletter
+241,CUST_0241,Tier 4: Low-Engagement,10,10,2120.0,0.001,Standard Engagement: Bi-weekly Newsletter
+242,CUST_0242,Tier 4: Low-Engagement,59,10,2605.0,0.003,Standard Engagement: Bi-weekly Newsletter
+243,CUST_0243,Tier 4: Low-Engagement,14,10,1870.0,0.001,Standard Engagement: Bi-weekly Newsletter
+244,CUST_0244,Tier 4: Low-Engagement,47,8,1415.0,0.001,Standard Engagement: Bi-weekly Newsletter
+245,CUST_0245,Tier 2: High Potential,59,17,2377.5,0.0,Nurture Campaign: Feature Adoption Webinar
+246,CUST_0246,Tier 2: High Potential,16,18,3227.5,0.0,Nurture Campaign: Feature Adoption Webinar
+247,CUST_0247,Tier 2: High Potential,64,17,3267.5,0.0,Nurture Campaign: Feature Adoption Webinar
+248,CUST_0248,Tier 4: Low-Engagement,85,15,2445.0,0.0,Standard Engagement: Bi-weekly Newsletter
+249,CUST_0249,Tier 4: Low-Engagement,12,15,2530.0,0.0,Standard Engagement: Bi-weekly Newsletter
+250,CUST_0250,Tier 4: Low-Engagement,68,10,1560.0,0.002,Standard Engagement: Bi-weekly Newsletter
+251,CUST_0251,Tier 4: Low-Engagement,33,11,1280.0,0.002,Standard Engagement: Bi-weekly Newsletter
+252,CUST_0252,Tier 4: Low-Engagement,74,9,1755.0,0.0,Standard Engagement: Bi-weekly Newsletter
+253,CUST_0253,Tier 1: Champions,36,24,6182.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+254,CUST_0254,Tier 4: Low-Engagement,11,12,2742.5,0.0,Standard Engagement: Bi-weekly Newsletter
+255,CUST_0255,Tier 1: Champions,29,23,4375.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+256,CUST_0256,Tier 3: At-Risk Frequenters,163,15,3147.5,0.0,Standard Engagement: Bi-weekly Newsletter
+257,CUST_0257,Tier 1: Champions,11,16,5672.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+258,CUST_0258,Tier 4: Low-Engagement,42,13,2105.0,0.0,Standard Engagement: Bi-weekly Newsletter
+259,CUST_0259,Tier 2: High Potential,98,15,4632.5,0.0,Nurture Campaign: Feature Adoption Webinar
+260,CUST_0260,Tier 2: High Potential,74,17,3520.0,0.0,Nurture Campaign: Feature Adoption Webinar
+261,CUST_0261,Tier 4: Low-Engagement,40,11,2012.5,0.0,Standard Engagement: Bi-weekly Newsletter
+262,CUST_0262,Tier 4: Low-Engagement,49,11,3067.5,0.002,Standard Engagement: Bi-weekly Newsletter
+263,CUST_0263,Tier 4: Low-Engagement,23,10,1092.5,0.001,Standard Engagement: Bi-weekly Newsletter
+264,CUST_0264,Tier 2: High Potential,63,11,4605.0,0.001,Nurture Campaign: Feature Adoption Webinar
+265,CUST_0265,Tier 2: High Potential,54,18,4205.0,0.0,Nurture Campaign: Feature Adoption Webinar
+266,CUST_0266,Tier 2: High Potential,15,17,2625.0,0.0,Nurture Campaign: Feature Adoption Webinar
+267,CUST_0267,Tier 3: At-Risk Frequenters,120,15,2295.0,0.0,Standard Engagement: Bi-weekly Newsletter
+268,CUST_0268,Tier 2: High Potential,29,17,3730.0,0.0,Nurture Campaign: Feature Adoption Webinar
+269,CUST_0269,Tier 2: High Potential,23,19,2675.0,0.0,Nurture Campaign: Feature Adoption Webinar
+270,CUST_0270,Tier 2: High Potential,13,16,2460.0,0.0,Nurture Campaign: Feature Adoption Webinar
+271,CUST_0271,Tier 1: Champions,19,25,8280.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+272,CUST_0272,Tier 4: Low-Engagement,64,13,1287.5,0.001,Standard Engagement: Bi-weekly Newsletter
+273,CUST_0273,Tier 1: Champions,20,26,5200.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+274,CUST_0274,Tier 4: Low-Engagement,4,13,2907.5,0.001,Standard Engagement: Bi-weekly Newsletter
+275,CUST_0275,Tier 2: High Potential,97,15,4397.5,0.0,Nurture Campaign: Feature Adoption Webinar
+276,CUST_0276,Tier 2: High Potential,5,20,4057.5,0.0,Nurture Campaign: Feature Adoption Webinar
+277,CUST_0277,Tier 2: High Potential,35,16,3010.0,0.0,Nurture Campaign: Feature Adoption Webinar
+278,CUST_0278,Tier 2: High Potential,24,21,3690.0,0.0,Nurture Campaign: Feature Adoption Webinar
+279,CUST_0279,Tier 4: Low-Engagement,18,13,3452.5,0.001,Standard Engagement: Bi-weekly Newsletter
+280,CUST_0280,Tier 3: At-Risk Frequenters,101,14,2832.5,0.001,Standard Engagement: Bi-weekly Newsletter
+281,CUST_0281,Tier 4: Low-Engagement,37,14,1747.5,0.0,Standard Engagement: Bi-weekly Newsletter
+282,CUST_0282,Tier 1: Champions,51,15,5390.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+283,CUST_0283,Tier 2: High Potential,13,19,4367.5,0.0,Nurture Campaign: Feature Adoption Webinar
+284,CUST_0284,Tier 4: Low-Engagement,76,13,2407.5,0.0,Standard Engagement: Bi-weekly Newsletter
+285,CUST_0285,Tier 4: Low-Engagement,71,13,2492.5,0.0,Standard Engagement: Bi-weekly Newsletter
+286,CUST_0286,Tier 4: Low-Engagement,68,14,2102.5,0.0,Standard Engagement: Bi-weekly Newsletter
+287,CUST_0287,Tier 4: Low-Engagement,35,9,1105.0,0.0,Standard Engagement: Bi-weekly Newsletter
+288,CUST_0288,Tier 2: High Potential,10,16,4162.5,0.0,Nurture Campaign: Feature Adoption Webinar
+289,CUST_0289,Tier 2: High Potential,54,17,3827.5,0.0,Nurture Campaign: Feature Adoption Webinar
+290,CUST_0290,Tier 4: Low-Engagement,14,12,1530.0,0.001,Standard Engagement: Bi-weekly Newsletter
+291,CUST_0291,Tier 3: At-Risk Frequenters,129,9,845.0,0.001,Standard Engagement: Bi-weekly Newsletter
+292,CUST_0292,Tier 4: Low-Engagement,42,12,2752.5,0.0,Standard Engagement: Bi-weekly Newsletter
+293,CUST_0293,Tier 2: High Potential,18,19,3565.0,0.0,Nurture Campaign: Feature Adoption Webinar
+294,CUST_0294,Tier 4: Low-Engagement,28,14,2420.0,0.0,Standard Engagement: Bi-weekly Newsletter
+295,CUST_0295,Tier 4: Low-Engagement,80,12,2722.5,0.002,Standard Engagement: Bi-weekly Newsletter
+296,CUST_0296,Tier 2: High Potential,49,19,3980.0,0.0,Nurture Campaign: Feature Adoption Webinar
+297,CUST_0297,Tier 4: Low-Engagement,22,13,2342.5,0.002,Standard Engagement: Bi-weekly Newsletter
+298,CUST_0298,Tier 4: Low-Engagement,34,11,2435.0,0.001,Standard Engagement: Bi-weekly Newsletter
+299,CUST_0299,Tier 4: Low-Engagement,67,13,2982.5,0.002,Standard Engagement: Bi-weekly Newsletter
+300,CUST_0300,Tier 4: Low-Engagement,48,14,2585.0,0.0,Standard Engagement: Bi-weekly Newsletter
+301,CUST_0301,Tier 3: At-Risk Frequenters,163,8,1867.5,0.001,Standard Engagement: Bi-weekly Newsletter
+302,CUST_0302,Tier 4: Low-Engagement,72,15,2442.5,0.0,Standard Engagement: Bi-weekly Newsletter
+303,CUST_0303,Tier 2: High Potential,5,16,2847.5,0.0,Nurture Campaign: Feature Adoption Webinar
+304,CUST_0304,Tier 2: High Potential,51,17,4442.5,0.0,Nurture Campaign: Feature Adoption Webinar
+305,CUST_0305,Tier 4: Low-Engagement,17,7,1095.0,0.0,Standard Engagement: Bi-weekly Newsletter
+306,CUST_0306,Tier 1: Champions,21,17,5665.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+307,CUST_0307,Tier 2: High Potential,32,19,3340.0,0.0,Nurture Campaign: Feature Adoption Webinar
+308,CUST_0308,Tier 2: High Potential,11,16,3677.5,0.0,Nurture Campaign: Feature Adoption Webinar
+309,CUST_0309,Tier 2: High Potential,11,15,3985.0,0.0,Nurture Campaign: Feature Adoption Webinar
+310,CUST_0310,Tier 1: Champions,11,16,5307.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+311,CUST_0311,Tier 2: High Potential,22,18,2557.5,0.0,Nurture Campaign: Feature Adoption Webinar
+312,CUST_0312,Tier 4: Low-Engagement,7,7,1167.5,0.0,Standard Engagement: Bi-weekly Newsletter
+313,CUST_0313,Tier 4: Low-Engagement,13,13,2240.0,0.001,Standard Engagement: Bi-weekly Newsletter
+314,CUST_0314,Tier 2: High Potential,66,15,3287.5,0.0,Nurture Campaign: Feature Adoption Webinar
+315,CUST_0315,Tier 4: Low-Engagement,68,13,2817.5,0.002,Standard Engagement: Bi-weekly Newsletter
+316,CUST_0316,Tier 4: Low-Engagement,0,10,1342.5,0.001,Standard Engagement: Bi-weekly Newsletter
+317,CUST_0317,Tier 2: High Potential,27,21,3727.5,0.0,Nurture Campaign: Feature Adoption Webinar
+318,CUST_0318,Tier 2: High Potential,48,18,3527.5,0.0,Nurture Campaign: Feature Adoption Webinar
+319,CUST_0319,Tier 4: Low-Engagement,25,9,1477.5,0.011,Standard Engagement: Bi-weekly Newsletter
+320,CUST_0320,Tier 2: High Potential,83,14,3572.5,0.0,Nurture Campaign: Feature Adoption Webinar
+321,CUST_0321,Tier 2: High Potential,31,15,3377.5,0.0,Nurture Campaign: Feature Adoption Webinar
+322,CUST_0322,Tier 3: At-Risk Frequenters,230,11,2265.0,0.95,Executive Intervention: Dedicated Account Manager Call
+323,CUST_0323,Tier 4: Low-Engagement,74,11,1515.0,0.001,Standard Engagement: Bi-weekly Newsletter
+324,CUST_0324,Tier 2: High Potential,55,15,3357.5,0.0,Nurture Campaign: Feature Adoption Webinar
+325,CUST_0325,Tier 1: Champions,6,21,4380.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+326,CUST_0326,Tier 2: High Potential,61,17,3575.0,0.0,Nurture Campaign: Feature Adoption Webinar
+327,CUST_0327,Tier 2: High Potential,46,18,3105.0,0.0,Nurture Campaign: Feature Adoption Webinar
+328,CUST_0328,Tier 2: High Potential,2,15,3155.0,0.0,Nurture Campaign: Feature Adoption Webinar
+329,CUST_0329,Tier 4: Low-Engagement,52,13,2080.0,0.0,Standard Engagement: Bi-weekly Newsletter
+330,CUST_0330,Tier 2: High Potential,15,17,3812.5,0.0,Nurture Campaign: Feature Adoption Webinar
+331,CUST_0331,Tier 2: High Potential,12,18,3970.0,0.0,Nurture Campaign: Feature Adoption Webinar
+332,CUST_0332,Tier 4: Low-Engagement,68,12,2235.0,0.0,Standard Engagement: Bi-weekly Newsletter
+333,CUST_0333,Tier 1: Champions,31,21,5075.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+334,CUST_0334,Tier 1: Champions,46,18,4817.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+335,CUST_0335,Tier 4: Low-Engagement,24,13,2720.0,0.002,Standard Engagement: Bi-weekly Newsletter
+336,CUST_0336,Tier 2: High Potential,21,23,3277.5,0.002,Nurture Campaign: Feature Adoption Webinar
+337,CUST_0337,Tier 2: High Potential,41,17,3622.5,0.0,Nurture Campaign: Feature Adoption Webinar
+338,CUST_0338,Tier 2: High Potential,36,16,3700.0,0.0,Nurture Campaign: Feature Adoption Webinar
+339,CUST_0339,Tier 4: Low-Engagement,55,15,2680.0,0.0,Standard Engagement: Bi-weekly Newsletter
+340,CUST_0340,Tier 3: At-Risk Frequenters,114,14,2910.0,0.0,Standard Engagement: Bi-weekly Newsletter
+341,CUST_0341,Tier 4: Low-Engagement,0,11,1960.0,0.0,Standard Engagement: Bi-weekly Newsletter
+342,CUST_0342,Tier 1: Champions,76,15,5787.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+343,CUST_0343,Tier 3: At-Risk Frequenters,93,17,2277.5,0.0,Standard Engagement: Bi-weekly Newsletter
+344,CUST_0344,Tier 2: High Potential,5,14,3555.0,0.0,Nurture Campaign: Feature Adoption Webinar
+345,CUST_0345,Tier 2: High Potential,57,15,2932.5,0.0,Nurture Campaign: Feature Adoption Webinar
+346,CUST_0346,Tier 4: Low-Engagement,81,6,612.5,0.001,Standard Engagement: Bi-weekly Newsletter
+347,CUST_0347,Tier 4: Low-Engagement,59,7,2130.0,0.002,Standard Engagement: Bi-weekly Newsletter
+348,CUST_0348,Tier 2: High Potential,13,16,2742.5,0.0,Nurture Campaign: Feature Adoption Webinar
+349,CUST_0349,Tier 2: High Potential,11,13,5067.5,0.001,Nurture Campaign: Feature Adoption Webinar
+350,CUST_0350,Tier 4: Low-Engagement,34,8,1680.0,0.001,Standard Engagement: Bi-weekly Newsletter
+351,CUST_0351,Tier 4: Low-Engagement,19,12,2537.5,0.0,Standard Engagement: Bi-weekly Newsletter
+352,CUST_0352,Tier 3: At-Risk Frequenters,100,10,2245.0,0.003,Standard Engagement: Bi-weekly Newsletter
+353,CUST_0353,Tier 3: At-Risk Frequenters,106,14,4060.0,0.0,Standard Engagement: Bi-weekly Newsletter
+354,CUST_0354,Tier 4: Low-Engagement,9,13,2825.0,0.0,Standard Engagement: Bi-weekly Newsletter
+355,CUST_0355,Tier 2: High Potential,0,18,4137.5,0.0,Nurture Campaign: Feature Adoption Webinar
+356,CUST_0356,Tier 2: High Potential,63,18,3367.5,0.0,Nurture Campaign: Feature Adoption Webinar
+357,CUST_0357,Tier 2: High Potential,98,16,3687.5,0.0,Nurture Campaign: Feature Adoption Webinar
+358,CUST_0358,Tier 4: Low-Engagement,86,9,2002.5,0.0,Standard Engagement: Bi-weekly Newsletter
+359,CUST_0359,Tier 4: Low-Engagement,51,14,1810.0,0.001,Standard Engagement: Bi-weekly Newsletter
+360,CUST_0360,Tier 4: Low-Engagement,32,11,2620.0,0.0,Standard Engagement: Bi-weekly Newsletter
+361,CUST_0361,Tier 3: At-Risk Frequenters,133,10,1992.5,0.001,Standard Engagement: Bi-weekly Newsletter
+362,CUST_0362,Tier 2: High Potential,0,14,3390.0,0.0,Nurture Campaign: Feature Adoption Webinar
+363,CUST_0363,Tier 3: At-Risk Frequenters,133,12,2377.5,0.002,Standard Engagement: Bi-weekly Newsletter
+364,CUST_0364,Tier 2: High Potential,15,18,3025.0,0.0,Nurture Campaign: Feature Adoption Webinar
+365,CUST_0365,Tier 2: High Potential,16,15,3145.0,0.0,Nurture Campaign: Feature Adoption Webinar
+366,CUST_0366,Tier 3: At-Risk Frequenters,99,14,4282.5,0.001,Standard Engagement: Bi-weekly Newsletter
+367,CUST_0367,Tier 2: High Potential,27,19,2240.0,0.0,Nurture Campaign: Feature Adoption Webinar
+368,CUST_0368,Tier 1: Champions,10,22,5502.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+369,CUST_0369,Tier 2: High Potential,49,19,3522.5,0.002,Nurture Campaign: Feature Adoption Webinar
+370,CUST_0370,Tier 4: Low-Engagement,37,8,2310.0,0.002,Standard Engagement: Bi-weekly Newsletter
+371,CUST_0371,Tier 2: High Potential,7,18,3222.5,0.0,Nurture Campaign: Feature Adoption Webinar
+372,CUST_0372,Tier 3: At-Risk Frequenters,128,13,2147.5,0.001,Standard Engagement: Bi-weekly Newsletter
+373,CUST_0373,Tier 2: High Potential,23,18,3547.5,0.0,Nurture Campaign: Feature Adoption Webinar
+374,CUST_0374,Tier 4: Low-Engagement,33,11,3000.0,0.0,Standard Engagement: Bi-weekly Newsletter
+375,CUST_0375,Tier 2: High Potential,11,17,3172.5,0.0,Nurture Campaign: Feature Adoption Webinar
+376,CUST_0376,Tier 1: Champions,35,21,4950.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+377,CUST_0377,Tier 4: Low-Engagement,43,12,2825.0,0.002,Standard Engagement: Bi-weekly Newsletter
+378,CUST_0378,Tier 2: High Potential,31,17,2835.0,0.0,Nurture Campaign: Feature Adoption Webinar
+379,CUST_0379,Tier 2: High Potential,19,17,2535.0,0.0,Nurture Campaign: Feature Adoption Webinar
+380,CUST_0380,Tier 3: At-Risk Frequenters,211,12,1257.5,0.952,Automated Retention: 15% Re-engagement Discount
+381,CUST_0381,Tier 2: High Potential,90,19,4260.0,0.0,Nurture Campaign: Feature Adoption Webinar
+382,CUST_0382,Tier 2: High Potential,82,21,3670.0,0.0,Nurture Campaign: Feature Adoption Webinar
+383,CUST_0383,Tier 1: Champions,18,18,6600.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+384,CUST_0384,Tier 2: High Potential,32,16,3232.5,0.0,Nurture Campaign: Feature Adoption Webinar
+385,CUST_0385,Tier 3: At-Risk Frequenters,106,10,1567.5,0.003,Standard Engagement: Bi-weekly Newsletter
+386,CUST_0386,Tier 4: Low-Engagement,38,12,2900.0,0.001,Standard Engagement: Bi-weekly Newsletter
+387,CUST_0387,Tier 1: Champions,1,24,4945.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+388,CUST_0388,Tier 2: High Potential,39,12,4652.5,0.001,Nurture Campaign: Feature Adoption Webinar
+389,CUST_0389,Tier 2: High Potential,89,16,3555.0,0.0,Nurture Campaign: Feature Adoption Webinar
+390,CUST_0390,Tier 2: High Potential,4,16,2410.0,0.0,Nurture Campaign: Feature Adoption Webinar
+391,CUST_0391,Tier 3: At-Risk Frequenters,179,14,2900.0,0.12,Standard Engagement: Bi-weekly Newsletter
+392,CUST_0392,Tier 3: At-Risk Frequenters,101,12,4052.5,0.001,Standard Engagement: Bi-weekly Newsletter
+393,CUST_0393,Tier 2: High Potential,80,16,4155.0,0.0,Nurture Campaign: Feature Adoption Webinar
+394,CUST_0394,Tier 4: Low-Engagement,19,14,2742.5,0.001,Standard Engagement: Bi-weekly Newsletter
+395,CUST_0395,Tier 4: Low-Engagement,23,12,2015.0,0.002,Standard Engagement: Bi-weekly Newsletter
+396,CUST_0396,Tier 2: High Potential,29,22,3765.0,0.002,Nurture Campaign: Feature Adoption Webinar
+397,CUST_0397,Tier 4: Low-Engagement,78,12,2902.5,0.001,Standard Engagement: Bi-weekly Newsletter
+398,CUST_0398,Tier 4: Low-Engagement,29,13,2270.0,0.002,Standard Engagement: Bi-weekly Newsletter
+399,CUST_0399,Tier 4: Low-Engagement,72,10,1522.5,0.001,Standard Engagement: Bi-weekly Newsletter
+400,CUST_0400,Tier 3: At-Risk Frequenters,92,10,2947.5,0.003,Standard Engagement: Bi-weekly Newsletter
+401,CUST_0401,Tier 2: High Potential,13,17,2387.5,0.0,Nurture Campaign: Feature Adoption Webinar
+402,CUST_0402,Tier 4: Low-Engagement,11,13,2922.5,0.001,Standard Engagement: Bi-weekly Newsletter
+403,CUST_0403,Tier 2: High Potential,12,16,2432.5,0.0,Nurture Campaign: Feature Adoption Webinar
+404,CUST_0404,Tier 4: Low-Engagement,18,11,3885.0,0.001,Standard Engagement: Bi-weekly Newsletter
+405,CUST_0405,Tier 2: High Potential,11,16,3217.5,0.0,Nurture Campaign: Feature Adoption Webinar
+406,CUST_0406,Tier 4: Low-Engagement,9,8,1805.0,0.0,Standard Engagement: Bi-weekly Newsletter
+407,CUST_0407,Tier 4: Low-Engagement,5,11,1120.0,0.002,Standard Engagement: Bi-weekly Newsletter
+408,CUST_0408,Tier 4: Low-Engagement,3,8,1405.0,0.002,Standard Engagement: Bi-weekly Newsletter
+409,CUST_0409,Tier 1: Champions,12,17,6255.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+410,CUST_0410,Tier 3: At-Risk Frequenters,104,16,3670.0,0.0,Standard Engagement: Bi-weekly Newsletter
+411,CUST_0411,Tier 3: At-Risk Frequenters,192,10,1255.0,0.959,Automated Retention: 15% Re-engagement Discount
+412,CUST_0412,Tier 2: High Potential,6,18,3222.5,0.0,Nurture Campaign: Feature Adoption Webinar
+413,CUST_0413,Tier 4: Low-Engagement,87,14,2185.0,0.0,Standard Engagement: Bi-weekly Newsletter
+414,CUST_0414,Tier 4: Low-Engagement,1,14,2475.0,0.0,Standard Engagement: Bi-weekly Newsletter
+415,CUST_0415,Tier 2: High Potential,17,19,4452.5,0.0,Nurture Campaign: Feature Adoption Webinar
+416,CUST_0416,Tier 2: High Potential,4,19,3157.5,0.0,Nurture Campaign: Feature Adoption Webinar
+417,CUST_0417,Tier 2: High Potential,1,16,2297.5,0.0,Nurture Campaign: Feature Adoption Webinar
+418,CUST_0418,Tier 4: Low-Engagement,23,8,1142.5,0.0,Standard Engagement: Bi-weekly Newsletter
+419,CUST_0419,Tier 3: At-Risk Frequenters,199,13,3210.0,0.972,Executive Intervention: Dedicated Account Manager Call
+420,CUST_0420,Tier 2: High Potential,7,21,3972.5,0.0,Nurture Campaign: Feature Adoption Webinar
+421,CUST_0421,Tier 2: High Potential,6,15,3440.0,0.0,Nurture Campaign: Feature Adoption Webinar
+422,CUST_0422,Tier 1: Champions,9,18,6902.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+423,CUST_0423,Tier 4: Low-Engagement,15,12,1445.0,0.001,Standard Engagement: Bi-weekly Newsletter
+424,CUST_0424,Tier 4: Low-Engagement,54,12,2217.5,0.0,Standard Engagement: Bi-weekly Newsletter
+425,CUST_0425,Tier 4: Low-Engagement,17,14,2900.0,0.0,Standard Engagement: Bi-weekly Newsletter
+426,CUST_0426,Tier 2: High Potential,2,15,3620.0,0.0,Nurture Campaign: Feature Adoption Webinar
+427,CUST_0427,Tier 3: At-Risk Frequenters,157,16,3072.5,0.0,Standard Engagement: Bi-weekly Newsletter
+428,CUST_0428,Tier 2: High Potential,97,19,3635.0,0.0,Nurture Campaign: Feature Adoption Webinar
+429,CUST_0429,Tier 2: High Potential,25,16,2707.5,0.0,Nurture Campaign: Feature Adoption Webinar
+430,CUST_0430,Tier 3: At-Risk Frequenters,258,4,312.5,0.97,Automated Retention: 15% Re-engagement Discount
+431,CUST_0431,Tier 4: Low-Engagement,21,13,2315.0,0.0,Standard Engagement: Bi-weekly Newsletter
+432,CUST_0432,Tier 4: Low-Engagement,40,12,2647.5,0.002,Standard Engagement: Bi-weekly Newsletter
+433,CUST_0433,Tier 2: High Potential,7,19,4450.0,0.0,Nurture Campaign: Feature Adoption Webinar
+434,CUST_0434,Tier 2: High Potential,26,19,4497.5,0.0,Nurture Campaign: Feature Adoption Webinar
+435,CUST_0435,Tier 2: High Potential,56,15,4775.0,0.0,Nurture Campaign: Feature Adoption Webinar
+436,CUST_0436,Tier 4: Low-Engagement,93,12,1305.0,0.012,Standard Engagement: Bi-weekly Newsletter
+437,CUST_0437,Tier 3: At-Risk Frequenters,161,9,1697.5,0.0,Standard Engagement: Bi-weekly Newsletter
+438,CUST_0438,Tier 2: High Potential,44,17,3567.5,0.0,Nurture Campaign: Feature Adoption Webinar
+439,CUST_0439,Tier 1: Champions,5,24,5420.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+440,CUST_0440,Tier 2: High Potential,2,16,2710.0,0.0,Nurture Campaign: Feature Adoption Webinar
+441,CUST_0441,Tier 1: Champions,77,18,4955.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+442,CUST_0442,Tier 2: High Potential,33,17,3400.0,0.0,Nurture Campaign: Feature Adoption Webinar
+443,CUST_0443,Tier 2: High Potential,56,19,4072.5,0.0,Nurture Campaign: Feature Adoption Webinar
+444,CUST_0444,Tier 1: Champions,19,20,5477.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+445,CUST_0445,Tier 2: High Potential,47,16,3542.5,0.0,Nurture Campaign: Feature Adoption Webinar
+446,CUST_0446,Tier 1: Champions,125,20,6175.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+447,CUST_0447,Tier 2: High Potential,14,17,2210.0,0.0,Nurture Campaign: Feature Adoption Webinar
+448,CUST_0448,Tier 4: Low-Engagement,8,12,2812.5,0.0,Standard Engagement: Bi-weekly Newsletter
+449,CUST_0449,Tier 4: Low-Engagement,20,12,3410.0,0.001,Standard Engagement: Bi-weekly Newsletter
+450,CUST_0450,Tier 2: High Potential,3,16,2970.0,0.0,Nurture Campaign: Feature Adoption Webinar
+451,CUST_0451,Tier 3: At-Risk Frequenters,154,9,1105.0,0.0,Standard Engagement: Bi-weekly Newsletter
+452,CUST_0452,Tier 2: High Potential,39,15,3957.5,0.0,Nurture Campaign: Feature Adoption Webinar
+453,CUST_0453,Tier 4: Low-Engagement,38,14,1927.5,0.0,Standard Engagement: Bi-weekly Newsletter
+454,CUST_0454,Tier 2: High Potential,11,14,3170.0,0.0,Nurture Campaign: Feature Adoption Webinar
+455,CUST_0455,Tier 3: At-Risk Frequenters,160,15,2550.0,0.0,Standard Engagement: Bi-weekly Newsletter
+456,CUST_0456,Tier 2: High Potential,10,16,3250.0,0.0,Nurture Campaign: Feature Adoption Webinar
+457,CUST_0457,Tier 4: Low-Engagement,56,14,2040.0,0.0,Standard Engagement: Bi-weekly Newsletter
+458,CUST_0458,Tier 3: At-Risk Frequenters,182,12,1277.5,0.89,Automated Retention: 15% Re-engagement Discount
+459,CUST_0459,Tier 2: High Potential,37,13,4945.0,0.001,Nurture Campaign: Feature Adoption Webinar
+460,CUST_0460,Tier 4: Low-Engagement,49,11,2577.5,0.0,Standard Engagement: Bi-weekly Newsletter
+461,CUST_0461,Tier 3: At-Risk Frequenters,108,13,4702.5,0.001,Standard Engagement: Bi-weekly Newsletter
+462,CUST_0462,Tier 1: Champions,50,19,4982.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+463,CUST_0463,Tier 2: High Potential,32,17,3725.0,0.0,Nurture Campaign: Feature Adoption Webinar
+464,CUST_0464,Tier 1: Champions,2,29,4857.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+465,CUST_0465,Tier 2: High Potential,7,15,3247.5,0.0,Nurture Campaign: Feature Adoption Webinar
+466,CUST_0466,Tier 4: Low-Engagement,77,14,2307.5,0.0,Standard Engagement: Bi-weekly Newsletter
+467,CUST_0467,Tier 2: High Potential,39,17,3750.0,0.0,Nurture Campaign: Feature Adoption Webinar
+468,CUST_0468,Tier 2: High Potential,12,17,3460.0,0.0,Nurture Campaign: Feature Adoption Webinar
+469,CUST_0469,Tier 3: At-Risk Frequenters,165,9,1840.0,0.002,Standard Engagement: Bi-weekly Newsletter
+470,CUST_0470,Tier 4: Low-Engagement,89,11,2090.0,0.0,Standard Engagement: Bi-weekly Newsletter
+471,CUST_0471,Tier 2: High Potential,21,22,3497.5,0.002,Nurture Campaign: Feature Adoption Webinar
+472,CUST_0472,Tier 2: High Potential,8,14,3410.0,0.001,Nurture Campaign: Feature Adoption Webinar
+473,CUST_0473,Tier 4: Low-Engagement,28,11,2185.0,0.0,Standard Engagement: Bi-weekly Newsletter
+474,CUST_0474,Tier 2: High Potential,54,22,3057.5,0.002,Nurture Campaign: Feature Adoption Webinar
+475,CUST_0475,Tier 2: High Potential,8,14,3620.0,0.0,Nurture Campaign: Feature Adoption Webinar
+476,CUST_0476,Tier 4: Low-Engagement,37,13,2647.5,0.0,Standard Engagement: Bi-weekly Newsletter
+477,CUST_0477,Tier 4: Low-Engagement,55,14,2845.0,0.0,Standard Engagement: Bi-weekly Newsletter
+478,CUST_0478,Tier 2: High Potential,10,14,3177.5,0.0,Nurture Campaign: Feature Adoption Webinar
+479,CUST_0479,Tier 4: Low-Engagement,53,15,2470.0,0.0,Standard Engagement: Bi-weekly Newsletter
+480,CUST_0480,Tier 3: At-Risk Frequenters,213,22,3595.0,0.954,Executive Intervention: Dedicated Account Manager Call
+481,CUST_0481,Tier 2: High Potential,25,16,5035.0,0.0,Nurture Campaign: Feature Adoption Webinar
+482,CUST_0482,Tier 2: High Potential,5,16,4860.0,0.0,Nurture Campaign: Feature Adoption Webinar
+483,CUST_0483,Tier 2: High Potential,23,13,3630.0,0.001,Nurture Campaign: Feature Adoption Webinar
+484,CUST_0484,Tier 3: At-Risk Frequenters,191,12,1542.5,0.958,Executive Intervention: Dedicated Account Manager Call
+485,CUST_0485,Tier 2: High Potential,66,16,3972.5,0.0,Nurture Campaign: Feature Adoption Webinar
+486,CUST_0486,Tier 3: At-Risk Frequenters,117,15,3545.0,0.0,Standard Engagement: Bi-weekly Newsletter
+487,CUST_0487,Tier 4: Low-Engagement,60,14,2197.5,0.001,Standard Engagement: Bi-weekly Newsletter
+488,CUST_0488,Tier 3: At-Risk Frequenters,176,8,1802.5,0.0,Standard Engagement: Bi-weekly Newsletter
+489,CUST_0489,Tier 4: Low-Engagement,7,13,2257.5,0.0,Standard Engagement: Bi-weekly Newsletter
+490,CUST_0490,Tier 4: Low-Engagement,22,16,2105.0,0.0,Standard Engagement: Bi-weekly Newsletter
+491,CUST_0491,Tier 2: High Potential,8,13,5027.5,0.001,Nurture Campaign: Feature Adoption Webinar
+492,CUST_0492,Tier 1: Champions,64,19,4942.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+493,CUST_0493,Tier 4: Low-Engagement,1,14,2775.0,0.0,Standard Engagement: Bi-weekly Newsletter
+494,CUST_0494,Tier 2: High Potential,39,17,3815.0,0.0,Nurture Campaign: Feature Adoption Webinar
+495,CUST_0495,Tier 2: High Potential,15,16,3435.0,0.0,Nurture Campaign: Feature Adoption Webinar
+496,CUST_0496,Tier 4: Low-Engagement,7,15,1957.5,0.0,Standard Engagement: Bi-weekly Newsletter
+497,CUST_0497,Tier 3: At-Risk Frequenters,178,13,2820.0,0.032,Standard Engagement: Bi-weekly Newsletter
+498,CUST_0498,Tier 2: High Potential,62,16,3380.0,0.0,Nurture Campaign: Feature Adoption Webinar
+499,CUST_0499,Tier 2: High Potential,30,14,4952.5,0.0,Nurture Campaign: Feature Adoption Webinar
+500,CUST_0500,Tier 4: Low-Engagement,12,10,1380.0,0.001,Standard Engagement: Bi-weekly Newsletter
+501,CUST_0501,Tier 4: Low-Engagement,90,11,2200.0,0.0,Standard Engagement: Bi-weekly Newsletter
+502,CUST_0502,Tier 1: Champions,11,24,4575.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+503,CUST_0503,Tier 1: Champions,33,27,7645.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+504,CUST_0504,Tier 2: High Potential,29,15,2695.0,0.0,Nurture Campaign: Feature Adoption Webinar
+505,CUST_0505,Tier 4: Low-Engagement,79,13,1617.5,0.007,Standard Engagement: Bi-weekly Newsletter
+506,CUST_0506,Tier 4: Low-Engagement,44,13,2845.0,0.0,Standard Engagement: Bi-weekly Newsletter
+507,CUST_0507,Tier 4: Low-Engagement,12,9,4105.0,0.001,Standard Engagement: Bi-weekly Newsletter
+508,CUST_0508,Tier 4: Low-Engagement,65,15,2762.5,0.0,Standard Engagement: Bi-weekly Newsletter
+509,CUST_0509,Tier 2: High Potential,72,19,3305.0,0.0,Nurture Campaign: Feature Adoption Webinar
+510,CUST_0510,Tier 3: At-Risk Frequenters,105,7,1380.0,0.001,Standard Engagement: Bi-weekly Newsletter
+511,CUST_0511,Tier 2: High Potential,44,19,3730.0,0.0,Nurture Campaign: Feature Adoption Webinar
+512,CUST_0512,Tier 4: Low-Engagement,60,10,2180.0,0.003,Standard Engagement: Bi-weekly Newsletter
+513,CUST_0513,Tier 3: At-Risk Frequenters,91,12,2550.0,0.0,Standard Engagement: Bi-weekly Newsletter
+514,CUST_0514,Tier 2: High Potential,4,16,2657.5,0.0,Nurture Campaign: Feature Adoption Webinar
+515,CUST_0515,Tier 4: Low-Engagement,15,10,2260.0,0.003,Standard Engagement: Bi-weekly Newsletter
+516,CUST_0516,Tier 3: At-Risk Frequenters,131,13,3485.0,0.001,Standard Engagement: Bi-weekly Newsletter
+517,CUST_0517,Tier 3: At-Risk Frequenters,350,13,2152.5,0.972,Executive Intervention: Dedicated Account Manager Call
+518,CUST_0518,Tier 4: Low-Engagement,16,13,2455.0,0.0,Standard Engagement: Bi-weekly Newsletter
+519,CUST_0519,Tier 4: Low-Engagement,30,12,2172.5,0.002,Standard Engagement: Bi-weekly Newsletter
+520,CUST_0520,Tier 1: Champions,33,23,5777.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+521,CUST_0521,Tier 2: High Potential,41,18,2805.0,0.0,Nurture Campaign: Feature Adoption Webinar
+522,CUST_0522,Tier 1: Champions,3,20,4740.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+523,CUST_0523,Tier 2: High Potential,60,15,4182.5,0.0,Nurture Campaign: Feature Adoption Webinar
+524,CUST_0524,Tier 4: Low-Engagement,26,9,1320.0,0.011,Standard Engagement: Bi-weekly Newsletter
+525,CUST_0525,Tier 1: Champions,20,20,4605.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+526,CUST_0526,Tier 4: Low-Engagement,5,11,2147.5,0.0,Standard Engagement: Bi-weekly Newsletter
+527,CUST_0527,Tier 2: High Potential,23,16,2780.0,0.0,Nurture Campaign: Feature Adoption Webinar
+528,CUST_0528,Tier 2: High Potential,41,21,3937.5,0.0,Nurture Campaign: Feature Adoption Webinar
+529,CUST_0529,Tier 2: High Potential,45,16,2790.0,0.0,Nurture Campaign: Feature Adoption Webinar
+530,CUST_0530,Tier 1: Champions,31,24,4980.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+531,CUST_0531,Tier 4: Low-Engagement,30,14,2792.5,0.0,Standard Engagement: Bi-weekly Newsletter
+532,CUST_0532,Tier 2: High Potential,7,13,5307.5,0.001,Nurture Campaign: Feature Adoption Webinar
+533,CUST_0533,Tier 4: Low-Engagement,24,14,2705.0,0.001,Standard Engagement: Bi-weekly Newsletter
+534,CUST_0534,Tier 2: High Potential,31,14,4592.5,0.0,Nurture Campaign: Feature Adoption Webinar
+535,CUST_0535,Tier 4: Low-Engagement,3,13,1792.5,0.001,Standard Engagement: Bi-weekly Newsletter
+536,CUST_0536,Tier 2: High Potential,91,14,4802.5,0.0,Nurture Campaign: Feature Adoption Webinar
+537,CUST_0537,Tier 1: Champions,55,15,5505.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+538,CUST_0538,Tier 2: High Potential,3,19,4175.0,0.0,Nurture Campaign: Feature Adoption Webinar
+539,CUST_0539,Tier 4: Low-Engagement,24,9,1625.0,0.002,Standard Engagement: Bi-weekly Newsletter
+540,CUST_0540,Tier 2: High Potential,1,21,3895.0,0.0,Nurture Campaign: Feature Adoption Webinar
+541,CUST_0541,Tier 1: Champions,12,22,4972.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+542,CUST_0542,Tier 4: Low-Engagement,79,15,1900.0,0.0,Standard Engagement: Bi-weekly Newsletter
+543,CUST_0543,Tier 4: Low-Engagement,88,13,2290.0,0.0,Standard Engagement: Bi-weekly Newsletter
+544,CUST_0544,Tier 3: At-Risk Frequenters,170,13,2940.0,0.002,Standard Engagement: Bi-weekly Newsletter
+545,CUST_0545,Tier 4: Low-Engagement,64,11,2540.0,0.002,Standard Engagement: Bi-weekly Newsletter
+546,CUST_0546,Tier 2: High Potential,4,17,2402.5,0.0,Nurture Campaign: Feature Adoption Webinar
+547,CUST_0547,Tier 2: High Potential,84,18,3625.0,0.0,Nurture Campaign: Feature Adoption Webinar
+548,CUST_0548,Tier 4: Low-Engagement,84,12,2015.0,0.0,Standard Engagement: Bi-weekly Newsletter
+549,CUST_0549,Tier 4: Low-Engagement,25,13,3325.0,0.001,Standard Engagement: Bi-weekly Newsletter
+550,CUST_0550,Tier 2: High Potential,10,20,3740.0,0.0,Nurture Campaign: Feature Adoption Webinar
+551,CUST_0551,Tier 2: High Potential,1,17,4532.5,0.0,Nurture Campaign: Feature Adoption Webinar
+552,CUST_0552,Tier 4: Low-Engagement,25,12,2700.0,0.0,Standard Engagement: Bi-weekly Newsletter
+553,CUST_0553,Tier 2: High Potential,86,15,4425.0,0.0,Nurture Campaign: Feature Adoption Webinar
+554,CUST_0554,Tier 2: High Potential,23,14,4100.0,0.0,Nurture Campaign: Feature Adoption Webinar
+555,CUST_0555,Tier 2: High Potential,57,17,3930.0,0.0,Nurture Campaign: Feature Adoption Webinar
+556,CUST_0556,Tier 2: High Potential,64,17,3035.0,0.0,Nurture Campaign: Feature Adoption Webinar
+557,CUST_0557,Tier 2: High Potential,103,17,4512.5,0.0,Nurture Campaign: Feature Adoption Webinar
+558,CUST_0558,Tier 1: Champions,40,20,8117.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+559,CUST_0559,Tier 2: High Potential,39,17,3267.5,0.0,Nurture Campaign: Feature Adoption Webinar
+560,CUST_0560,Tier 1: Champions,12,31,6280.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+561,CUST_0561,Tier 1: Champions,50,20,5022.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+562,CUST_0562,Tier 3: At-Risk Frequenters,165,11,1212.5,0.041,Standard Engagement: Bi-weekly Newsletter
+563,CUST_0563,Tier 3: At-Risk Frequenters,127,13,1440.0,0.002,Standard Engagement: Bi-weekly Newsletter
+564,CUST_0564,Tier 3: At-Risk Frequenters,110,9,1915.0,0.0,Standard Engagement: Bi-weekly Newsletter
+565,CUST_0565,Tier 2: High Potential,9,14,3222.5,0.0,Nurture Campaign: Feature Adoption Webinar
+566,CUST_0566,Tier 2: High Potential,2,19,4192.5,0.0,Nurture Campaign: Feature Adoption Webinar
+567,CUST_0567,Tier 2: High Potential,3,16,4705.0,0.0,Nurture Campaign: Feature Adoption Webinar
+568,CUST_0568,Tier 2: High Potential,14,18,3835.0,0.0,Nurture Campaign: Feature Adoption Webinar
+569,CUST_0569,Tier 2: High Potential,20,18,3612.5,0.0,Nurture Campaign: Feature Adoption Webinar
+570,CUST_0570,Tier 4: Low-Engagement,49,15,2187.5,0.0,Standard Engagement: Bi-weekly Newsletter
+571,CUST_0571,Tier 3: At-Risk Frequenters,119,16,2907.5,0.0,Standard Engagement: Bi-weekly Newsletter
+572,CUST_0572,Tier 4: Low-Engagement,45,7,1682.5,0.001,Standard Engagement: Bi-weekly Newsletter
+573,CUST_0573,Tier 2: High Potential,14,22,3942.5,0.0,Nurture Campaign: Feature Adoption Webinar
+574,CUST_0574,Tier 2: High Potential,7,19,4300.0,0.0,Nurture Campaign: Feature Adoption Webinar
+575,CUST_0575,Tier 2: High Potential,16,17,4735.0,0.0,Nurture Campaign: Feature Adoption Webinar
+576,CUST_0576,Tier 4: Low-Engagement,31,10,3172.5,0.002,Standard Engagement: Bi-weekly Newsletter
+577,CUST_0577,Tier 4: Low-Engagement,44,10,1527.5,0.0,Standard Engagement: Bi-weekly Newsletter
+578,CUST_0578,Tier 4: Low-Engagement,52,12,2385.0,0.0,Standard Engagement: Bi-weekly Newsletter
+579,CUST_0579,Tier 2: High Potential,72,18,4447.5,0.0,Nurture Campaign: Feature Adoption Webinar
+580,CUST_0580,Tier 2: High Potential,7,16,3205.0,0.0,Nurture Campaign: Feature Adoption Webinar
+581,CUST_0581,Tier 4: Low-Engagement,26,14,2507.5,0.0,Standard Engagement: Bi-weekly Newsletter
+582,CUST_0582,Tier 2: High Potential,15,16,4592.5,0.0,Nurture Campaign: Feature Adoption Webinar
+583,CUST_0583,Tier 3: At-Risk Frequenters,167,15,3177.5,0.0,Standard Engagement: Bi-weekly Newsletter
+584,CUST_0584,Tier 1: Champions,45,21,4422.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+585,CUST_0585,Tier 3: At-Risk Frequenters,104,10,2410.0,0.003,Standard Engagement: Bi-weekly Newsletter
+586,CUST_0586,Tier 4: Low-Engagement,47,16,1955.0,0.0,Standard Engagement: Bi-weekly Newsletter
+587,CUST_0587,Tier 4: Low-Engagement,2,12,1472.5,0.001,Standard Engagement: Bi-weekly Newsletter
+588,CUST_0588,Tier 2: High Potential,24,16,3250.0,0.002,Nurture Campaign: Feature Adoption Webinar
+589,CUST_0589,Tier 1: Champions,16,20,5237.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+590,CUST_0590,Tier 3: At-Risk Frequenters,157,18,3562.5,0.0,Standard Engagement: Bi-weekly Newsletter
+591,CUST_0591,Tier 4: Low-Engagement,52,15,2482.5,0.0,Standard Engagement: Bi-weekly Newsletter
+592,CUST_0592,Tier 1: Champions,48,17,5265.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+593,CUST_0593,Tier 3: At-Risk Frequenters,99,12,2357.5,0.0,Standard Engagement: Bi-weekly Newsletter
+594,CUST_0594,Tier 4: Low-Engagement,61,12,2917.5,0.001,Standard Engagement: Bi-weekly Newsletter
+595,CUST_0595,Tier 2: High Potential,5,17,3960.0,0.0,Nurture Campaign: Feature Adoption Webinar
+596,CUST_0596,Tier 2: High Potential,11,20,3917.5,0.0,Nurture Campaign: Feature Adoption Webinar
+597,CUST_0597,Tier 2: High Potential,66,16,3410.0,0.0,Nurture Campaign: Feature Adoption Webinar
+598,CUST_0598,Tier 4: Low-Engagement,23,12,3050.0,0.001,Standard Engagement: Bi-weekly Newsletter
+599,CUST_0599,Tier 1: Champions,13,22,7610.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+600,CUST_0600,Tier 3: At-Risk Frequenters,102,12,2170.0,0.0,Standard Engagement: Bi-weekly Newsletter
+601,CUST_0601,Tier 1: Champions,0,23,7190.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+602,CUST_0602,Tier 1: Champions,61,16,5580.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+603,CUST_0603,Tier 4: Low-Engagement,8,12,3130.0,0.001,Standard Engagement: Bi-weekly Newsletter
+604,CUST_0604,Tier 4: Low-Engagement,15,15,2407.5,0.0,Standard Engagement: Bi-weekly Newsletter
+605,CUST_0605,Tier 4: Low-Engagement,0,14,2250.0,0.001,Standard Engagement: Bi-weekly Newsletter
+606,CUST_0606,Tier 1: Champions,29,26,6450.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+607,CUST_0607,Tier 2: High Potential,95,16,3700.0,0.0,Nurture Campaign: Feature Adoption Webinar
+608,CUST_0608,Tier 4: Low-Engagement,73,14,3047.5,0.001,Standard Engagement: Bi-weekly Newsletter
+609,CUST_0609,Tier 3: At-Risk Frequenters,144,11,2590.0,0.002,Standard Engagement: Bi-weekly Newsletter
+610,CUST_0610,Tier 2: High Potential,23,15,3137.5,0.0,Nurture Campaign: Feature Adoption Webinar
+611,CUST_0611,Tier 4: Low-Engagement,71,15,2427.5,0.0,Standard Engagement: Bi-weekly Newsletter
+612,CUST_0612,Tier 2: High Potential,85,18,4392.5,0.0,Nurture Campaign: Feature Adoption Webinar
+613,CUST_0613,Tier 3: At-Risk Frequenters,262,10,1310.0,0.961,Automated Retention: 15% Re-engagement Discount
+614,CUST_0614,Tier 4: Low-Engagement,0,14,2142.5,0.0,Standard Engagement: Bi-weekly Newsletter
+615,CUST_0615,Tier 2: High Potential,45,16,4740.0,0.0,Nurture Campaign: Feature Adoption Webinar
+616,CUST_0616,Tier 1: Champions,26,16,6485.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+617,CUST_0617,Tier 2: High Potential,18,18,3570.0,0.0,Nurture Campaign: Feature Adoption Webinar
+618,CUST_0618,Tier 2: High Potential,13,21,3390.0,0.0,Nurture Campaign: Feature Adoption Webinar
+619,CUST_0619,Tier 1: Champions,27,22,6715.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+620,CUST_0620,Tier 1: Champions,64,22,5240.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+621,CUST_0621,Tier 2: High Potential,7,18,4425.0,0.0,Nurture Campaign: Feature Adoption Webinar
+622,CUST_0622,Tier 2: High Potential,32,16,3480.0,0.0,Nurture Campaign: Feature Adoption Webinar
+623,CUST_0623,Tier 2: High Potential,68,19,2920.0,0.0,Nurture Campaign: Feature Adoption Webinar
+624,CUST_0624,Tier 4: Low-Engagement,72,11,2270.0,0.002,Standard Engagement: Bi-weekly Newsletter
+625,CUST_0625,Tier 4: Low-Engagement,65,10,4495.0,0.002,Standard Engagement: Bi-weekly Newsletter
+626,CUST_0626,Tier 2: High Potential,49,16,3632.5,0.0,Nurture Campaign: Feature Adoption Webinar
+627,CUST_0627,Tier 3: At-Risk Frequenters,265,11,1652.5,0.982,Executive Intervention: Dedicated Account Manager Call
+628,CUST_0628,Tier 1: Champions,37,22,4727.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+629,CUST_0629,Tier 4: Low-Engagement,21,10,2112.5,0.003,Standard Engagement: Bi-weekly Newsletter
+630,CUST_0630,Tier 4: Low-Engagement,52,11,1535.0,0.001,Standard Engagement: Bi-weekly Newsletter
+631,CUST_0631,Tier 4: Low-Engagement,24,12,1710.0,0.0,Standard Engagement: Bi-weekly Newsletter
+632,CUST_0632,Tier 3: At-Risk Frequenters,172,12,3627.5,0.001,Standard Engagement: Bi-weekly Newsletter
+633,CUST_0633,Tier 4: Low-Engagement,15,11,2050.0,0.0,Standard Engagement: Bi-weekly Newsletter
+634,CUST_0634,Tier 4: Low-Engagement,48,14,1930.0,0.0,Standard Engagement: Bi-weekly Newsletter
+635,CUST_0635,Tier 3: At-Risk Frequenters,103,14,1892.5,0.0,Standard Engagement: Bi-weekly Newsletter
+636,CUST_0636,Tier 3: At-Risk Frequenters,100,9,2740.0,0.0,Standard Engagement: Bi-weekly Newsletter
+637,CUST_0637,Tier 2: High Potential,10,17,3395.0,0.0,Nurture Campaign: Feature Adoption Webinar
+638,CUST_0638,Tier 2: High Potential,38,16,3670.0,0.0,Nurture Campaign: Feature Adoption Webinar
+639,CUST_0639,Tier 2: High Potential,82,16,3717.5,0.0,Nurture Campaign: Feature Adoption Webinar
+640,CUST_0640,Tier 2: High Potential,76,21,3547.5,0.0,Nurture Campaign: Feature Adoption Webinar
+641,CUST_0641,Tier 4: Low-Engagement,26,9,3342.5,0.001,Standard Engagement: Bi-weekly Newsletter
+642,CUST_0642,Tier 4: Low-Engagement,23,9,1820.0,0.0,Standard Engagement: Bi-weekly Newsletter
+643,CUST_0643,Tier 4: Low-Engagement,15,14,1715.0,0.0,Standard Engagement: Bi-weekly Newsletter
+644,CUST_0644,Tier 4: Low-Engagement,6,13,2370.0,0.002,Standard Engagement: Bi-weekly Newsletter
+645,CUST_0645,Tier 3: At-Risk Frequenters,108,11,1257.5,0.02,Standard Engagement: Bi-weekly Newsletter
+646,CUST_0646,Tier 3: At-Risk Frequenters,144,18,5182.5,0.0,Standard Engagement: Bi-weekly Newsletter
+647,CUST_0647,Tier 1: Champions,15,18,4872.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+648,CUST_0648,Tier 4: Low-Engagement,30,9,2140.0,0.0,Standard Engagement: Bi-weekly Newsletter
+649,CUST_0649,Tier 2: High Potential,15,18,2632.5,0.0,Nurture Campaign: Feature Adoption Webinar
+650,CUST_0650,Tier 2: High Potential,42,15,2920.0,0.0,Nurture Campaign: Feature Adoption Webinar
+651,CUST_0651,Tier 2: High Potential,9,16,3162.5,0.0,Nurture Campaign: Feature Adoption Webinar
+652,CUST_0652,Tier 2: High Potential,57,15,2965.0,0.0,Nurture Campaign: Feature Adoption Webinar
+653,CUST_0653,Tier 1: Champions,52,24,7160.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+654,CUST_0654,Tier 4: Low-Engagement,45,11,2302.5,0.0,Standard Engagement: Bi-weekly Newsletter
+655,CUST_0655,Tier 4: Low-Engagement,63,11,2690.0,0.003,Standard Engagement: Bi-weekly Newsletter
+656,CUST_0656,Tier 4: Low-Engagement,62,11,2395.0,0.0,Standard Engagement: Bi-weekly Newsletter
+657,CUST_0657,Tier 4: Low-Engagement,63,16,2175.0,0.0,Standard Engagement: Bi-weekly Newsletter
+658,CUST_0658,Tier 2: High Potential,33,22,3062.5,0.002,Nurture Campaign: Feature Adoption Webinar
+659,CUST_0659,Tier 3: At-Risk Frequenters,161,10,2305.0,0.003,Standard Engagement: Bi-weekly Newsletter
+660,CUST_0660,Tier 3: At-Risk Frequenters,174,10,4287.5,0.002,Standard Engagement: Bi-weekly Newsletter
+661,CUST_0661,Tier 1: Champions,23,18,4787.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+662,CUST_0662,Tier 2: High Potential,49,18,3852.5,0.0,Nurture Campaign: Feature Adoption Webinar
+663,CUST_0663,Tier 2: High Potential,0,19,2992.5,0.002,Nurture Campaign: Feature Adoption Webinar
+664,CUST_0664,Tier 1: Champions,0,19,5642.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+665,CUST_0665,Tier 3: At-Risk Frequenters,193,10,2890.0,0.964,Executive Intervention: Dedicated Account Manager Call
+666,CUST_0666,Tier 2: High Potential,57,17,3257.5,0.0,Nurture Campaign: Feature Adoption Webinar
+667,CUST_0667,Tier 4: Low-Engagement,21,11,1645.0,0.001,Standard Engagement: Bi-weekly Newsletter
+668,CUST_0668,Tier 2: High Potential,8,18,3552.5,0.0,Nurture Campaign: Feature Adoption Webinar
+669,CUST_0669,Tier 4: Low-Engagement,1,9,1375.0,0.002,Standard Engagement: Bi-weekly Newsletter
+670,CUST_0670,Tier 4: Low-Engagement,14,12,1855.0,0.0,Standard Engagement: Bi-weekly Newsletter
+671,CUST_0671,Tier 4: Low-Engagement,4,12,2220.0,0.002,Standard Engagement: Bi-weekly Newsletter
+672,CUST_0672,Tier 4: Low-Engagement,47,10,3860.0,0.002,Standard Engagement: Bi-weekly Newsletter
+673,CUST_0673,Tier 4: Low-Engagement,2,13,3395.0,0.001,Standard Engagement: Bi-weekly Newsletter
+674,CUST_0674,Tier 3: At-Risk Frequenters,106,11,2277.5,0.0,Standard Engagement: Bi-weekly Newsletter
+675,CUST_0675,Tier 2: High Potential,10,18,4437.5,0.0,Nurture Campaign: Feature Adoption Webinar
+676,CUST_0676,Tier 3: At-Risk Frequenters,90,16,2630.0,0.0,Standard Engagement: Bi-weekly Newsletter
+677,CUST_0677,Tier 4: Low-Engagement,15,14,2002.5,0.001,Standard Engagement: Bi-weekly Newsletter
+678,CUST_0678,Tier 2: High Potential,42,15,5070.0,0.0,Nurture Campaign: Feature Adoption Webinar
+679,CUST_0679,Tier 3: At-Risk Frequenters,115,14,1735.0,0.001,Standard Engagement: Bi-weekly Newsletter
+680,CUST_0680,Tier 1: Champions,2,20,6310.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+681,CUST_0681,Tier 4: Low-Engagement,25,13,3177.5,0.001,Standard Engagement: Bi-weekly Newsletter
+682,CUST_0682,Tier 3: At-Risk Frequenters,130,14,1987.5,0.0,Standard Engagement: Bi-weekly Newsletter
+683,CUST_0683,Tier 2: High Potential,23,12,4560.0,0.001,Nurture Campaign: Feature Adoption Webinar
+684,CUST_0684,Tier 4: Low-Engagement,22,10,3147.5,0.003,Standard Engagement: Bi-weekly Newsletter
+685,CUST_0685,Tier 4: Low-Engagement,61,16,2045.0,0.0,Standard Engagement: Bi-weekly Newsletter
+686,CUST_0686,Tier 3: At-Risk Frequenters,94,13,1987.5,0.003,Standard Engagement: Bi-weekly Newsletter
+687,CUST_0687,Tier 2: High Potential,17,19,4402.5,0.0,Nurture Campaign: Feature Adoption Webinar
+688,CUST_0688,Tier 2: High Potential,20,22,3530.0,0.004,Nurture Campaign: Feature Adoption Webinar
+689,CUST_0689,Tier 4: Low-Engagement,50,11,3210.0,0.001,Standard Engagement: Bi-weekly Newsletter
+690,CUST_0690,Tier 3: At-Risk Frequenters,107,13,1742.5,0.002,Standard Engagement: Bi-weekly Newsletter
+691,CUST_0691,Tier 4: Low-Engagement,2,13,1747.5,0.003,Standard Engagement: Bi-weekly Newsletter
+692,CUST_0692,Tier 4: Low-Engagement,36,12,1715.0,0.0,Standard Engagement: Bi-weekly Newsletter
+693,CUST_0693,Tier 1: Champions,15,19,6407.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+694,CUST_0694,Tier 1: Champions,58,22,5667.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+695,CUST_0695,Tier 4: Low-Engagement,64,15,2252.5,0.0,Standard Engagement: Bi-weekly Newsletter
+696,CUST_0696,Tier 3: At-Risk Frequenters,174,12,1790.0,0.002,Standard Engagement: Bi-weekly Newsletter
+697,CUST_0697,Tier 2: High Potential,8,16,4522.5,0.0,Nurture Campaign: Feature Adoption Webinar
+698,CUST_0698,Tier 2: High Potential,47,19,3197.5,0.0,Nurture Campaign: Feature Adoption Webinar
+699,CUST_0699,Tier 2: High Potential,36,21,3930.0,0.0,Nurture Campaign: Feature Adoption Webinar
+700,CUST_0700,Tier 1: Champions,1,22,5927.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+701,CUST_0701,Tier 3: At-Risk Frequenters,103,13,3672.5,0.001,Standard Engagement: Bi-weekly Newsletter
+702,CUST_0702,Tier 1: Champions,54,19,7680.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+703,CUST_0703,Tier 2: High Potential,19,17,4150.0,0.0,Nurture Campaign: Feature Adoption Webinar
+704,CUST_0704,Tier 4: Low-Engagement,23,12,3042.5,0.001,Standard Engagement: Bi-weekly Newsletter
+705,CUST_0705,Tier 4: Low-Engagement,7,11,1737.5,0.0,Standard Engagement: Bi-weekly Newsletter
+706,CUST_0706,Tier 2: High Potential,18,17,3777.5,0.0,Nurture Campaign: Feature Adoption Webinar
+707,CUST_0707,Tier 3: At-Risk Frequenters,201,8,1547.5,0.97,Executive Intervention: Dedicated Account Manager Call
+708,CUST_0708,Tier 3: At-Risk Frequenters,135,15,4362.5,0.0,Standard Engagement: Bi-weekly Newsletter
+709,CUST_0709,Tier 1: Champions,11,17,4975.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+710,CUST_0710,Tier 3: At-Risk Frequenters,116,12,1422.5,0.003,Standard Engagement: Bi-weekly Newsletter
+711,CUST_0711,Tier 2: High Potential,56,13,4087.5,0.001,Nurture Campaign: Feature Adoption Webinar
+712,CUST_0712,Tier 2: High Potential,6,15,4460.0,0.0,Nurture Campaign: Feature Adoption Webinar
+713,CUST_0713,Tier 3: At-Risk Frequenters,181,11,3085.0,0.822,Executive Intervention: Dedicated Account Manager Call
+714,CUST_0714,Tier 3: At-Risk Frequenters,92,12,3942.5,0.001,Standard Engagement: Bi-weekly Newsletter
+715,CUST_0715,Tier 2: High Potential,7,14,3942.5,0.0,Nurture Campaign: Feature Adoption Webinar
+716,CUST_0716,Tier 3: At-Risk Frequenters,96,17,2325.0,0.0,Standard Engagement: Bi-weekly Newsletter
+717,CUST_0717,Tier 4: Low-Engagement,4,15,1667.5,0.0,Standard Engagement: Bi-weekly Newsletter
+718,CUST_0718,Tier 2: High Potential,29,20,4047.5,0.0,Nurture Campaign: Feature Adoption Webinar
+719,CUST_0719,Tier 1: Champions,23,13,6120.0,0.001,Upsell / Expansion: Offer Annual Enterprise Contract
+720,CUST_0720,Tier 1: Champions,58,21,5432.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+721,CUST_0721,Tier 3: At-Risk Frequenters,111,15,3345.0,0.0,Standard Engagement: Bi-weekly Newsletter
+722,CUST_0722,Tier 2: High Potential,16,17,4860.0,0.0,Nurture Campaign: Feature Adoption Webinar
+723,CUST_0723,Tier 4: Low-Engagement,25,15,2162.5,0.002,Standard Engagement: Bi-weekly Newsletter
+724,CUST_0724,Tier 4: Low-Engagement,12,9,2055.0,0.0,Standard Engagement: Bi-weekly Newsletter
+725,CUST_0725,Tier 4: Low-Engagement,65,11,1950.0,0.0,Standard Engagement: Bi-weekly Newsletter
+726,CUST_0726,Tier 2: High Potential,8,21,3735.0,0.0,Nurture Campaign: Feature Adoption Webinar
+727,CUST_0727,Tier 4: Low-Engagement,11,13,1915.0,0.0,Standard Engagement: Bi-weekly Newsletter
+728,CUST_0728,Tier 2: High Potential,123,20,4042.5,0.0,Nurture Campaign: Feature Adoption Webinar
+729,CUST_0729,Tier 4: Low-Engagement,24,8,1840.0,0.0,Standard Engagement: Bi-weekly Newsletter
+730,CUST_0730,Tier 2: High Potential,5,18,2702.5,0.0,Nurture Campaign: Feature Adoption Webinar
+731,CUST_0731,Tier 4: Low-Engagement,75,15,2285.0,0.0,Standard Engagement: Bi-weekly Newsletter
+732,CUST_0732,Tier 1: Champions,25,22,4675.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+733,CUST_0733,Tier 4: Low-Engagement,37,12,2565.0,0.0,Standard Engagement: Bi-weekly Newsletter
+734,CUST_0734,Tier 4: Low-Engagement,62,12,3287.5,0.001,Standard Engagement: Bi-weekly Newsletter
+735,CUST_0735,Tier 2: High Potential,34,18,3110.0,0.0,Nurture Campaign: Feature Adoption Webinar
+736,CUST_0736,Tier 4: Low-Engagement,37,13,2325.0,0.002,Standard Engagement: Bi-weekly Newsletter
+737,CUST_0737,Tier 4: Low-Engagement,39,12,2402.5,0.0,Standard Engagement: Bi-weekly Newsletter
+738,CUST_0738,Tier 2: High Potential,73,16,2732.5,0.0,Nurture Campaign: Feature Adoption Webinar
+739,CUST_0739,Tier 2: High Potential,16,16,4397.5,0.0,Nurture Campaign: Feature Adoption Webinar
+740,CUST_0740,Tier 2: High Potential,31,15,2837.5,0.0,Nurture Campaign: Feature Adoption Webinar
+741,CUST_0741,Tier 4: Low-Engagement,42,10,2530.0,0.001,Standard Engagement: Bi-weekly Newsletter
+742,CUST_0742,Tier 4: Low-Engagement,43,10,2395.0,0.001,Standard Engagement: Bi-weekly Newsletter
+743,CUST_0743,Tier 2: High Potential,49,18,3925.0,0.0,Nurture Campaign: Feature Adoption Webinar
+744,CUST_0744,Tier 4: Low-Engagement,19,9,2700.0,0.001,Standard Engagement: Bi-weekly Newsletter
+745,CUST_0745,Tier 4: Low-Engagement,32,7,1392.5,0.001,Standard Engagement: Bi-weekly Newsletter
+746,CUST_0746,Tier 2: High Potential,5,17,3465.0,0.0,Nurture Campaign: Feature Adoption Webinar
+747,CUST_0747,Tier 4: Low-Engagement,27,14,2845.0,0.0,Standard Engagement: Bi-weekly Newsletter
+748,CUST_0748,Tier 4: Low-Engagement,3,10,1785.0,0.003,Standard Engagement: Bi-weekly Newsletter
+749,CUST_0749,Tier 2: High Potential,14,16,3092.5,0.0,Nurture Campaign: Feature Adoption Webinar
+750,CUST_0750,Tier 4: Low-Engagement,19,12,3442.5,0.001,Standard Engagement: Bi-weekly Newsletter
+751,CUST_0751,Tier 4: Low-Engagement,29,11,3660.0,0.001,Standard Engagement: Bi-weekly Newsletter
+752,CUST_0752,Tier 4: Low-Engagement,30,16,1785.0,0.0,Standard Engagement: Bi-weekly Newsletter
+753,CUST_0753,Tier 2: High Potential,8,15,4660.0,0.0,Nurture Campaign: Feature Adoption Webinar
+754,CUST_0754,Tier 2: High Potential,44,23,2742.5,0.002,Nurture Campaign: Feature Adoption Webinar
+755,CUST_0755,Tier 3: At-Risk Frequenters,133,11,1355.0,0.001,Standard Engagement: Bi-weekly Newsletter
+756,CUST_0756,Tier 2: High Potential,6,20,3987.5,0.0,Nurture Campaign: Feature Adoption Webinar
+757,CUST_0757,Tier 2: High Potential,15,19,2750.0,0.0,Nurture Campaign: Feature Adoption Webinar
+758,CUST_0758,Tier 1: Champions,29,20,4722.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+759,CUST_0759,Tier 3: At-Risk Frequenters,92,14,2332.5,0.0,Standard Engagement: Bi-weekly Newsletter
+760,CUST_0760,Tier 4: Low-Engagement,71,7,1865.0,0.0,Standard Engagement: Bi-weekly Newsletter
+761,CUST_0761,Tier 2: High Potential,31,19,3352.5,0.0,Nurture Campaign: Feature Adoption Webinar
+762,CUST_0762,Tier 1: Champions,24,18,5675.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+763,CUST_0763,Tier 1: Champions,57,21,6332.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+764,CUST_0764,Tier 2: High Potential,24,13,4145.0,0.001,Nurture Campaign: Feature Adoption Webinar
+765,CUST_0765,Tier 3: At-Risk Frequenters,165,11,4672.5,0.001,Standard Engagement: Bi-weekly Newsletter
+766,CUST_0766,Tier 2: High Potential,7,17,3415.0,0.0,Nurture Campaign: Feature Adoption Webinar
+767,CUST_0767,Tier 4: Low-Engagement,13,11,2572.5,0.0,Standard Engagement: Bi-weekly Newsletter
+768,CUST_0768,Tier 2: High Potential,3,17,2252.5,0.0,Nurture Campaign: Feature Adoption Webinar
+769,CUST_0769,Tier 4: Low-Engagement,71,13,3532.5,0.001,Standard Engagement: Bi-weekly Newsletter
+770,CUST_0770,Tier 1: Champions,19,18,5235.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+771,CUST_0771,Tier 3: At-Risk Frequenters,106,11,1310.0,0.0,Standard Engagement: Bi-weekly Newsletter
+772,CUST_0772,Tier 2: High Potential,21,13,3515.0,0.001,Nurture Campaign: Feature Adoption Webinar
+773,CUST_0773,Tier 3: At-Risk Frequenters,144,6,3092.5,0.001,Standard Engagement: Bi-weekly Newsletter
+774,CUST_0774,Tier 3: At-Risk Frequenters,90,14,2997.5,0.0,Standard Engagement: Bi-weekly Newsletter
+775,CUST_0775,Tier 4: Low-Engagement,51,12,3167.5,0.001,Standard Engagement: Bi-weekly Newsletter
+776,CUST_0776,Tier 4: Low-Engagement,22,12,3377.5,0.001,Standard Engagement: Bi-weekly Newsletter
+777,CUST_0777,Tier 3: At-Risk Frequenters,104,9,1795.0,0.001,Standard Engagement: Bi-weekly Newsletter
+778,CUST_0778,Tier 3: At-Risk Frequenters,114,17,4102.5,0.0,Standard Engagement: Bi-weekly Newsletter
+779,CUST_0779,Tier 3: At-Risk Frequenters,157,8,1875.0,0.0,Standard Engagement: Bi-weekly Newsletter
+780,CUST_0780,Tier 3: At-Risk Frequenters,110,14,3342.5,0.0,Standard Engagement: Bi-weekly Newsletter
+781,CUST_0781,Tier 4: Low-Engagement,80,10,1677.5,0.001,Standard Engagement: Bi-weekly Newsletter
+782,CUST_0782,Tier 4: Low-Engagement,65,10,1962.5,0.001,Standard Engagement: Bi-weekly Newsletter
+783,CUST_0783,Tier 1: Champions,33,24,5977.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+784,CUST_0784,Tier 4: Low-Engagement,1,15,2357.5,0.0,Standard Engagement: Bi-weekly Newsletter
+785,CUST_0785,Tier 1: Champions,0,24,5810.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+786,CUST_0786,Tier 4: Low-Engagement,21,9,3330.0,0.001,Standard Engagement: Bi-weekly Newsletter
+787,CUST_0787,Tier 2: High Potential,56,15,2855.0,0.0,Nurture Campaign: Feature Adoption Webinar
+788,CUST_0788,Tier 2: High Potential,44,15,3257.5,0.0,Nurture Campaign: Feature Adoption Webinar
+789,CUST_0789,Tier 4: Low-Engagement,86,9,1512.5,0.003,Standard Engagement: Bi-weekly Newsletter
+790,CUST_0790,Tier 2: High Potential,33,17,4882.5,0.0,Nurture Campaign: Feature Adoption Webinar
+791,CUST_0791,Tier 2: High Potential,12,23,2675.0,0.002,Nurture Campaign: Feature Adoption Webinar
+792,CUST_0792,Tier 1: Champions,30,22,5435.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+793,CUST_0793,Tier 2: High Potential,11,19,3302.5,0.0,Nurture Campaign: Feature Adoption Webinar
+794,CUST_0794,Tier 1: Champions,36,22,5300.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+795,CUST_0795,Tier 3: At-Risk Frequenters,134,16,2222.5,0.0,Standard Engagement: Bi-weekly Newsletter
+796,CUST_0796,Tier 3: At-Risk Frequenters,169,11,3105.0,0.001,Standard Engagement: Bi-weekly Newsletter
+797,CUST_0797,Tier 3: At-Risk Frequenters,135,11,1675.0,0.0,Standard Engagement: Bi-weekly Newsletter
+798,CUST_0798,Tier 2: High Potential,46,17,2367.5,0.0,Nurture Campaign: Feature Adoption Webinar
+799,CUST_0799,Tier 1: Champions,0,23,4480.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+800,CUST_0800,Tier 2: High Potential,27,17,2742.5,0.0,Nurture Campaign: Feature Adoption Webinar
+801,CUST_0801,Tier 2: High Potential,6,15,3145.0,0.0,Nurture Campaign: Feature Adoption Webinar
+802,CUST_0802,Tier 2: High Potential,33,14,3187.5,0.0,Nurture Campaign: Feature Adoption Webinar
+803,CUST_0803,Tier 1: Champions,3,16,5820.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+804,CUST_0804,Tier 1: Champions,24,17,5397.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+805,CUST_0805,Tier 4: Low-Engagement,60,14,2215.0,0.0,Standard Engagement: Bi-weekly Newsletter
+806,CUST_0806,Tier 2: High Potential,18,14,4507.5,0.0,Nurture Campaign: Feature Adoption Webinar
+807,CUST_0807,Tier 2: High Potential,26,12,4062.5,0.001,Nurture Campaign: Feature Adoption Webinar
+808,CUST_0808,Tier 4: Low-Engagement,51,13,2655.0,0.002,Standard Engagement: Bi-weekly Newsletter
+809,CUST_0809,Tier 4: Low-Engagement,20,12,1727.5,0.0,Standard Engagement: Bi-weekly Newsletter
+810,CUST_0810,Tier 2: High Potential,12,17,3517.5,0.0,Nurture Campaign: Feature Adoption Webinar
+811,CUST_0811,Tier 4: Low-Engagement,20,12,2282.5,0.0,Standard Engagement: Bi-weekly Newsletter
+812,CUST_0812,Tier 4: Low-Engagement,39,12,2352.5,0.0,Standard Engagement: Bi-weekly Newsletter
+813,CUST_0813,Tier 2: High Potential,6,16,3997.5,0.0,Nurture Campaign: Feature Adoption Webinar
+814,CUST_0814,Tier 4: Low-Engagement,2,10,1385.0,0.001,Standard Engagement: Bi-weekly Newsletter
+815,CUST_0815,Tier 4: Low-Engagement,29,10,3010.0,0.002,Standard Engagement: Bi-weekly Newsletter
+816,CUST_0816,Tier 2: High Potential,44,18,4317.5,0.0,Nurture Campaign: Feature Adoption Webinar
+817,CUST_0817,Tier 4: Low-Engagement,10,13,2837.5,0.0,Standard Engagement: Bi-weekly Newsletter
+818,CUST_0818,Tier 4: Low-Engagement,50,11,1640.0,0.011,Standard Engagement: Bi-weekly Newsletter
+819,CUST_0819,Tier 3: At-Risk Frequenters,95,14,4177.5,0.001,Standard Engagement: Bi-weekly Newsletter
+820,CUST_0820,Tier 1: Champions,25,19,5715.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+821,CUST_0821,Tier 2: High Potential,23,15,3805.0,0.0,Nurture Campaign: Feature Adoption Webinar
+822,CUST_0822,Tier 2: High Potential,91,18,3025.0,0.002,Nurture Campaign: Feature Adoption Webinar
+823,CUST_0823,Tier 4: Low-Engagement,32,8,1840.0,0.0,Standard Engagement: Bi-weekly Newsletter
+824,CUST_0824,Tier 4: Low-Engagement,27,14,2317.5,0.0,Standard Engagement: Bi-weekly Newsletter
+825,CUST_0825,Tier 1: Champions,1,30,9017.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+826,CUST_0826,Tier 2: High Potential,21,16,2560.0,0.0,Nurture Campaign: Feature Adoption Webinar
+827,CUST_0827,Tier 4: Low-Engagement,65,9,2167.5,0.0,Standard Engagement: Bi-weekly Newsletter
+828,CUST_0828,Tier 2: High Potential,22,18,3175.0,0.0,Nurture Campaign: Feature Adoption Webinar
+829,CUST_0829,Tier 4: Low-Engagement,51,5,747.5,0.03,Standard Engagement: Bi-weekly Newsletter
+830,CUST_0830,Tier 1: Champions,28,17,5055.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+831,CUST_0831,Tier 2: High Potential,81,16,4447.5,0.0,Nurture Campaign: Feature Adoption Webinar
+832,CUST_0832,Tier 1: Champions,91,20,4800.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+833,CUST_0833,Tier 1: Champions,1,22,4457.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+834,CUST_0834,Tier 1: Champions,39,24,7960.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+835,CUST_0835,Tier 4: Low-Engagement,35,16,2202.5,0.0,Standard Engagement: Bi-weekly Newsletter
+836,CUST_0836,Tier 1: Champions,1,18,5570.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+837,CUST_0837,Tier 4: Low-Engagement,75,14,2230.0,0.0,Standard Engagement: Bi-weekly Newsletter
+838,CUST_0838,Tier 2: High Potential,7,18,2270.0,0.0,Nurture Campaign: Feature Adoption Webinar
+839,CUST_0839,Tier 2: High Potential,31,17,3522.5,0.0,Nurture Campaign: Feature Adoption Webinar
+840,CUST_0840,Tier 3: At-Risk Frequenters,112,15,3020.0,0.0,Standard Engagement: Bi-weekly Newsletter
+841,CUST_0841,Tier 3: At-Risk Frequenters,199,13,2895.0,0.972,Executive Intervention: Dedicated Account Manager Call
+842,CUST_0842,Tier 4: Low-Engagement,7,13,2130.0,0.002,Standard Engagement: Bi-weekly Newsletter
+843,CUST_0843,Tier 2: High Potential,15,15,2787.5,0.0,Nurture Campaign: Feature Adoption Webinar
+844,CUST_0844,Tier 2: High Potential,19,16,3122.5,0.0,Nurture Campaign: Feature Adoption Webinar
+845,CUST_0845,Tier 2: High Potential,17,21,3077.5,0.0,Nurture Campaign: Feature Adoption Webinar
+846,CUST_0846,Tier 1: Champions,53,17,5085.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+847,CUST_0847,Tier 3: At-Risk Frequenters,166,12,3302.5,0.001,Standard Engagement: Bi-weekly Newsletter
+848,CUST_0848,Tier 1: Champions,4,18,5592.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+849,CUST_0849,Tier 1: Champions,7,30,6672.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+850,CUST_0850,Tier 2: High Potential,13,17,4020.0,0.0,Nurture Campaign: Feature Adoption Webinar
+851,CUST_0851,Tier 2: High Potential,47,13,4677.5,0.001,Nurture Campaign: Feature Adoption Webinar
+852,CUST_0852,Tier 3: At-Risk Frequenters,114,17,2995.0,0.0,Standard Engagement: Bi-weekly Newsletter
+853,CUST_0853,Tier 2: High Potential,13,17,3345.0,0.0,Nurture Campaign: Feature Adoption Webinar
+854,CUST_0854,Tier 4: Low-Engagement,26,15,1932.5,0.0,Standard Engagement: Bi-weekly Newsletter
+855,CUST_0855,Tier 1: Champions,19,23,5465.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+856,CUST_0856,Tier 3: At-Risk Frequenters,140,16,2975.0,0.0,Standard Engagement: Bi-weekly Newsletter
+857,CUST_0857,Tier 4: Low-Engagement,66,11,2792.5,0.002,Standard Engagement: Bi-weekly Newsletter
+858,CUST_0858,Tier 1: Champions,44,23,4657.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+859,CUST_0859,Tier 2: High Potential,20,15,3245.0,0.0,Nurture Campaign: Feature Adoption Webinar
+860,CUST_0860,Tier 3: At-Risk Frequenters,119,12,2575.0,0.0,Standard Engagement: Bi-weekly Newsletter
+861,CUST_0861,Tier 2: High Potential,9,17,3725.0,0.0,Nurture Campaign: Feature Adoption Webinar
+862,CUST_0862,Tier 4: Low-Engagement,20,11,3490.0,0.001,Standard Engagement: Bi-weekly Newsletter
+863,CUST_0863,Tier 3: At-Risk Frequenters,107,13,3037.5,0.002,Standard Engagement: Bi-weekly Newsletter
+864,CUST_0864,Tier 3: At-Risk Frequenters,86,15,2822.5,0.0,Standard Engagement: Bi-weekly Newsletter
+865,CUST_0865,Tier 2: High Potential,94,17,4292.5,0.0,Nurture Campaign: Feature Adoption Webinar
+866,CUST_0866,Tier 4: Low-Engagement,49,12,1717.5,0.001,Standard Engagement: Bi-weekly Newsletter
+867,CUST_0867,Tier 4: Low-Engagement,60,11,1442.5,0.001,Standard Engagement: Bi-weekly Newsletter
+868,CUST_0868,Tier 2: High Potential,10,19,2752.5,0.0,Nurture Campaign: Feature Adoption Webinar
+869,CUST_0869,Tier 1: Champions,103,20,5010.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+870,CUST_0870,Tier 2: High Potential,15,21,4097.5,0.0,Nurture Campaign: Feature Adoption Webinar
+871,CUST_0871,Tier 2: High Potential,18,17,4320.0,0.0,Nurture Campaign: Feature Adoption Webinar
+872,CUST_0872,Tier 4: Low-Engagement,5,12,2250.0,0.003,Standard Engagement: Bi-weekly Newsletter
+873,CUST_0873,Tier 4: Low-Engagement,20,12,3047.5,0.001,Standard Engagement: Bi-weekly Newsletter
+874,CUST_0874,Tier 3: At-Risk Frequenters,110,19,2790.0,0.0,Standard Engagement: Bi-weekly Newsletter
+875,CUST_0875,Tier 2: High Potential,6,14,3087.5,0.0,Nurture Campaign: Feature Adoption Webinar
+876,CUST_0876,Tier 4: Low-Engagement,35,10,1892.5,0.001,Standard Engagement: Bi-weekly Newsletter
+877,CUST_0877,Tier 4: Low-Engagement,4,11,2477.5,0.002,Standard Engagement: Bi-weekly Newsletter
+878,CUST_0878,Tier 4: Low-Engagement,22,14,2630.0,0.0,Standard Engagement: Bi-weekly Newsletter
+879,CUST_0879,Tier 4: Low-Engagement,54,10,1587.5,0.003,Standard Engagement: Bi-weekly Newsletter
+880,CUST_0880,Tier 3: At-Risk Frequenters,152,14,3080.0,0.0,Standard Engagement: Bi-weekly Newsletter
+881,CUST_0881,Tier 1: Champions,5,17,6007.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+882,CUST_0882,Tier 3: At-Risk Frequenters,100,13,4035.0,0.001,Standard Engagement: Bi-weekly Newsletter
+883,CUST_0883,Tier 4: Low-Engagement,36,13,3380.0,0.001,Standard Engagement: Bi-weekly Newsletter
+884,CUST_0884,Tier 1: Champions,8,20,5732.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+885,CUST_0885,Tier 4: Low-Engagement,43,13,1767.5,0.002,Standard Engagement: Bi-weekly Newsletter
+886,CUST_0886,Tier 3: At-Risk Frequenters,140,16,2797.5,0.0,Standard Engagement: Bi-weekly Newsletter
+887,CUST_0887,Tier 2: High Potential,55,18,2817.5,0.0,Nurture Campaign: Feature Adoption Webinar
+888,CUST_0888,Tier 4: Low-Engagement,45,14,2257.5,0.001,Standard Engagement: Bi-weekly Newsletter
+889,CUST_0889,Tier 2: High Potential,9,18,2487.5,0.0,Nurture Campaign: Feature Adoption Webinar
+890,CUST_0890,Tier 2: High Potential,10,21,3800.0,0.0,Nurture Campaign: Feature Adoption Webinar
+891,CUST_0891,Tier 1: Champions,12,22,5140.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+892,CUST_0892,Tier 2: High Potential,28,17,3500.0,0.0,Nurture Campaign: Feature Adoption Webinar
+893,CUST_0893,Tier 2: High Potential,8,18,3440.0,0.0,Nurture Campaign: Feature Adoption Webinar
+894,CUST_0894,Tier 3: At-Risk Frequenters,125,11,3905.0,0.001,Standard Engagement: Bi-weekly Newsletter
+895,CUST_0895,Tier 3: At-Risk Frequenters,86,15,2892.5,0.0,Standard Engagement: Bi-weekly Newsletter
+896,CUST_0896,Tier 3: At-Risk Frequenters,236,10,1757.5,0.953,Executive Intervention: Dedicated Account Manager Call
+897,CUST_0897,Tier 2: High Potential,19,17,2915.0,0.0,Nurture Campaign: Feature Adoption Webinar
+898,CUST_0898,Tier 1: Champions,70,21,5282.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+899,CUST_0899,Tier 1: Champions,15,21,5425.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+900,CUST_0900,Tier 2: High Potential,13,16,3160.0,0.0,Nurture Campaign: Feature Adoption Webinar
+901,CUST_0901,Tier 3: At-Risk Frequenters,165,11,3342.5,0.001,Standard Engagement: Bi-weekly Newsletter
+902,CUST_0902,Tier 1: Champions,50,20,5837.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+903,CUST_0903,Tier 4: Low-Engagement,40,9,1242.5,0.001,Standard Engagement: Bi-weekly Newsletter
+904,CUST_0904,Tier 4: Low-Engagement,95,8,2060.0,0.002,Standard Engagement: Bi-weekly Newsletter
+905,CUST_0905,Tier 2: High Potential,8,14,4152.5,0.0,Nurture Campaign: Feature Adoption Webinar
+906,CUST_0906,Tier 3: At-Risk Frequenters,118,10,1270.0,0.01,Standard Engagement: Bi-weekly Newsletter
+907,CUST_0907,Tier 2: High Potential,8,12,5615.0,0.001,Nurture Campaign: Feature Adoption Webinar
+908,CUST_0908,Tier 4: Low-Engagement,10,11,2955.0,0.001,Standard Engagement: Bi-weekly Newsletter
+909,CUST_0909,Tier 2: High Potential,42,19,4285.0,0.0,Nurture Campaign: Feature Adoption Webinar
+910,CUST_0910,Tier 4: Low-Engagement,70,14,1947.5,0.0,Standard Engagement: Bi-weekly Newsletter
+911,CUST_0911,Tier 3: At-Risk Frequenters,149,12,1510.0,0.013,Standard Engagement: Bi-weekly Newsletter
+912,CUST_0912,Tier 2: High Potential,20,16,3187.5,0.0,Nurture Campaign: Feature Adoption Webinar
+913,CUST_0913,Tier 1: Champions,9,21,4922.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+914,CUST_0914,Tier 2: High Potential,30,18,3665.0,0.0,Nurture Campaign: Feature Adoption Webinar
+915,CUST_0915,Tier 2: High Potential,107,16,4292.5,0.0,Nurture Campaign: Feature Adoption Webinar
+916,CUST_0916,Tier 1: Champions,1,20,4405.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+917,CUST_0917,Tier 2: High Potential,38,19,3557.5,0.0,Nurture Campaign: Feature Adoption Webinar
+918,CUST_0918,Tier 4: Low-Engagement,40,10,3050.0,0.001,Standard Engagement: Bi-weekly Newsletter
+919,CUST_0919,Tier 1: Champions,6,21,4425.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+920,CUST_0920,Tier 3: At-Risk Frequenters,265,19,4165.0,0.96,Executive Intervention: Dedicated Account Manager Call
+921,CUST_0921,Tier 2: High Potential,23,17,4185.0,0.0,Nurture Campaign: Feature Adoption Webinar
+922,CUST_0922,Tier 2: High Potential,47,14,3400.0,0.0,Nurture Campaign: Feature Adoption Webinar
+923,CUST_0923,Tier 1: Champions,14,24,4150.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+924,CUST_0924,Tier 4: Low-Engagement,63,15,2085.0,0.0,Standard Engagement: Bi-weekly Newsletter
+925,CUST_0925,Tier 1: Champions,40,21,5865.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+926,CUST_0926,Tier 4: Low-Engagement,29,14,2905.0,0.0,Standard Engagement: Bi-weekly Newsletter
+927,CUST_0927,Tier 4: Low-Engagement,53,11,2185.0,0.0,Standard Engagement: Bi-weekly Newsletter
+928,CUST_0928,Tier 4: Low-Engagement,32,13,2467.5,0.003,Standard Engagement: Bi-weekly Newsletter
+929,CUST_0929,Tier 1: Champions,22,21,4587.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+930,CUST_0930,Tier 4: Low-Engagement,3,14,2667.5,0.001,Standard Engagement: Bi-weekly Newsletter
+931,CUST_0931,Tier 4: Low-Engagement,64,9,2262.5,0.0,Standard Engagement: Bi-weekly Newsletter
+932,CUST_0932,Tier 4: Low-Engagement,30,11,1267.5,0.002,Standard Engagement: Bi-weekly Newsletter
+933,CUST_0933,Tier 4: Low-Engagement,48,11,2880.0,0.0,Standard Engagement: Bi-weekly Newsletter
+934,CUST_0934,Tier 4: Low-Engagement,4,11,2282.5,0.0,Standard Engagement: Bi-weekly Newsletter
+935,CUST_0935,Tier 2: High Potential,34,17,3450.0,0.0,Nurture Campaign: Feature Adoption Webinar
+936,CUST_0936,Tier 2: High Potential,68,14,5170.0,0.0,Nurture Campaign: Feature Adoption Webinar
+937,CUST_0937,Tier 4: Low-Engagement,50,15,2317.5,0.0,Standard Engagement: Bi-weekly Newsletter
+938,CUST_0938,Tier 2: High Potential,61,17,3917.5,0.0,Nurture Campaign: Feature Adoption Webinar
+939,CUST_0939,Tier 2: High Potential,8,16,2855.0,0.0,Nurture Campaign: Feature Adoption Webinar
+940,CUST_0940,Tier 2: High Potential,1,20,4160.0,0.0,Nurture Campaign: Feature Adoption Webinar
+941,CUST_0941,Tier 4: Low-Engagement,3,11,2097.5,0.0,Standard Engagement: Bi-weekly Newsletter
+942,CUST_0942,Tier 2: High Potential,27,16,4815.0,0.0,Nurture Campaign: Feature Adoption Webinar
+943,CUST_0943,Tier 4: Low-Engagement,68,12,2077.5,0.0,Standard Engagement: Bi-weekly Newsletter
+944,CUST_0944,Tier 2: High Potential,49,15,3027.5,0.0,Nurture Campaign: Feature Adoption Webinar
+945,CUST_0945,Tier 1: Champions,4,20,4600.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+946,CUST_0946,Tier 2: High Potential,4,16,2162.5,0.0,Nurture Campaign: Feature Adoption Webinar
+947,CUST_0947,Tier 2: High Potential,12,15,3245.0,0.0,Nurture Campaign: Feature Adoption Webinar
+948,CUST_0948,Tier 2: High Potential,47,16,3767.5,0.0,Nurture Campaign: Feature Adoption Webinar
+949,CUST_0949,Tier 2: High Potential,33,14,3607.5,0.0,Nurture Campaign: Feature Adoption Webinar
+950,CUST_0950,Tier 1: Champions,20,24,5547.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+951,CUST_0951,Tier 3: At-Risk Frequenters,168,10,2672.5,0.001,Standard Engagement: Bi-weekly Newsletter
+952,CUST_0952,Tier 2: High Potential,26,15,3680.0,0.0,Nurture Campaign: Feature Adoption Webinar
+953,CUST_0953,Tier 4: Low-Engagement,18,11,1395.0,0.001,Standard Engagement: Bi-weekly Newsletter
+954,CUST_0954,Tier 2: High Potential,28,16,3542.5,0.0,Nurture Campaign: Feature Adoption Webinar
+955,CUST_0955,Tier 4: Low-Engagement,55,11,2437.5,0.0,Standard Engagement: Bi-weekly Newsletter
+956,CUST_0956,Tier 2: High Potential,19,18,3437.5,0.0,Nurture Campaign: Feature Adoption Webinar
+957,CUST_0957,Tier 4: Low-Engagement,13,7,535.0,0.001,Standard Engagement: Bi-weekly Newsletter
+958,CUST_0958,Tier 4: Low-Engagement,74,12,1860.0,0.0,Standard Engagement: Bi-weekly Newsletter
+959,CUST_0959,Tier 4: Low-Engagement,53,12,2940.0,0.001,Standard Engagement: Bi-weekly Newsletter
+960,CUST_0960,Tier 2: High Potential,2,17,2060.0,0.0,Nurture Campaign: Feature Adoption Webinar
+961,CUST_0961,Tier 4: Low-Engagement,55,11,2315.0,0.0,Standard Engagement: Bi-weekly Newsletter
+962,CUST_0962,Tier 1: Champions,24,15,5440.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+963,CUST_0963,Tier 1: Champions,23,27,4570.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+964,CUST_0964,Tier 3: At-Risk Frequenters,101,7,2020.0,0.002,Standard Engagement: Bi-weekly Newsletter
+965,CUST_0965,Tier 4: Low-Engagement,25,13,1700.0,0.0,Standard Engagement: Bi-weekly Newsletter
+966,CUST_0966,Tier 4: Low-Engagement,0,9,1557.5,0.002,Standard Engagement: Bi-weekly Newsletter
+967,CUST_0967,Tier 1: Champions,73,18,5097.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+968,CUST_0968,Tier 3: At-Risk Frequenters,118,14,3110.0,0.0,Standard Engagement: Bi-weekly Newsletter
+969,CUST_0969,Tier 2: High Potential,50,12,4780.0,0.001,Nurture Campaign: Feature Adoption Webinar
+970,CUST_0970,Tier 3: At-Risk Frequenters,317,12,1642.5,0.972,Executive Intervention: Dedicated Account Manager Call
+971,CUST_0971,Tier 2: High Potential,12,14,4770.0,0.0,Nurture Campaign: Feature Adoption Webinar
+972,CUST_0972,Tier 4: Low-Engagement,3,12,2005.0,0.002,Standard Engagement: Bi-weekly Newsletter
+973,CUST_0973,Tier 2: High Potential,10,19,4480.0,0.0,Nurture Campaign: Feature Adoption Webinar
+974,CUST_0974,Tier 4: Low-Engagement,13,13,1605.0,0.007,Standard Engagement: Bi-weekly Newsletter
+975,CUST_0975,Tier 4: Low-Engagement,8,15,2132.5,0.0,Standard Engagement: Bi-weekly Newsletter
+976,CUST_0976,Tier 2: High Potential,34,14,3495.0,0.001,Nurture Campaign: Feature Adoption Webinar
+977,CUST_0977,Tier 4: Low-Engagement,18,14,2060.0,0.0,Standard Engagement: Bi-weekly Newsletter
+978,CUST_0978,Tier 4: Low-Engagement,31,10,2057.5,0.001,Standard Engagement: Bi-weekly Newsletter
+979,CUST_0979,Tier 2: High Potential,87,17,2895.0,0.0,Nurture Campaign: Feature Adoption Webinar
+980,CUST_0980,Tier 3: At-Risk Frequenters,93,12,2712.5,0.0,Standard Engagement: Bi-weekly Newsletter
+981,CUST_0981,Tier 3: At-Risk Frequenters,110,17,2917.5,0.0,Standard Engagement: Bi-weekly Newsletter
+982,CUST_0982,Tier 1: Champions,8,19,4680.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+983,CUST_0983,Tier 4: Low-Engagement,3,13,3055.0,0.002,Standard Engagement: Bi-weekly Newsletter
+984,CUST_0984,Tier 2: High Potential,42,17,3262.5,0.0,Nurture Campaign: Feature Adoption Webinar
+985,CUST_0985,Tier 2: High Potential,11,16,4265.0,0.0,Nurture Campaign: Feature Adoption Webinar
+986,CUST_0986,Tier 2: High Potential,32,16,4077.5,0.0,Nurture Campaign: Feature Adoption Webinar
+987,CUST_0987,Tier 2: High Potential,16,13,4937.5,0.001,Nurture Campaign: Feature Adoption Webinar
+988,CUST_0988,Tier 2: High Potential,14,19,3640.0,0.0,Nurture Campaign: Feature Adoption Webinar
+989,CUST_0989,Tier 1: Champions,127,16,8232.5,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+990,CUST_0990,Tier 4: Low-Engagement,55,11,1490.0,0.0,Standard Engagement: Bi-weekly Newsletter
+991,CUST_0991,Tier 2: High Potential,19,14,3275.0,0.0,Nurture Campaign: Feature Adoption Webinar
+992,CUST_0992,Tier 1: Champions,23,22,5600.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+993,CUST_0993,Tier 2: High Potential,7,22,3952.5,0.0,Nurture Campaign: Feature Adoption Webinar
+994,CUST_0994,Tier 3: At-Risk Frequenters,103,12,2457.5,0.0,Standard Engagement: Bi-weekly Newsletter
+995,CUST_0995,Tier 4: Low-Engagement,38,10,4320.0,0.002,Standard Engagement: Bi-weekly Newsletter
+996,CUST_0996,Tier 4: Low-Engagement,56,8,665.0,0.0,Standard Engagement: Bi-weekly Newsletter
+997,CUST_0997,Tier 4: Low-Engagement,27,14,1800.0,0.0,Standard Engagement: Bi-weekly Newsletter
+998,CUST_0998,Tier 4: Low-Engagement,87,10,3132.5,0.001,Standard Engagement: Bi-weekly Newsletter
+999,CUST_0999,Tier 1: Champions,9,21,5120.0,0.0,Upsell / Expansion: Offer Annual Enterprise Contract
+1000,CUST_1000,Tier 2: High Potential,29,13,4172.5,0.001,Nurture Campaign: Feature Adoption Webinar

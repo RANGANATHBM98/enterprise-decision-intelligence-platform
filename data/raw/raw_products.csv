@@ -1,0 +1,7 @@
+product_id,product_name,category,unit_cost,unit_price
+PROD_01,Cloud Storage Tier A,Infrastructure,20.0,50.0
+PROD_02,Cloud Storage Tier B,Infrastructure,45.0,100.0
+PROD_03,Analytics Core License,Software,60.0,150.0
+PROD_04,Analytics Enterprise Add-on,Software,120.0,300.0
+PROD_05,Security Suite Pro,Cybersecurity,80.0,200.0
+PROD_06,Premium 24/7 Support,Services,150.0,350.0
